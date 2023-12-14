@@ -1,0 +1,772 @@
+[
+    {
+        "id": "MUCT61",
+        "idBrand": 2456,
+        "fullCode": "MUCT01",
+        "idCountry": 82,
+        "lat": "48.353776",
+        "lon": "11.786124",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "MUCT61",
+                "Name": "MUNICH AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCT01",
+                "Telephone": "089-97880410",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.353776",
+                "Longitude": "11.786124",
+                "Address": {
+                    "StreetNmbr": "MIETWAGENZENTRUM",
+                    "CityName": "MUENCHEN",
+                    "PostalCode": "85356",
+                    "StateProv_Name": "MUENCHEN",
+                    "StateCode": "BY"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "MUCT02",
+                "Name": "MUNICH AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCT02",
+                "Telephone": "089-97880410",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.3554",
+                "Longitude": "11.78646",
+                "Address": {
+                    "StreetNmbr": "ENTERPRISE RENT A CAR",
+                    "CityName": "MUENCHEN",
+                    "PostalCode": "85356",
+                    "StateProv_Name": "MUENCHEN",
+                    "StateCode": "BY"
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "MUCT72",
+                "Name": "MUNICH AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCT72",
+                "Telephone": "089-97880410",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.3554",
+                "Longitude": "11.78646",
+                "Address": {
+                    "StreetNmbr": "ENTERPRISE RENT A CAR",
+                    "CityName": "MUENCHEN",
+                    "PostalCode": "85356",
+                    "StateProv_Name": "MUENCHEN",
+                    "StateCode": "BY"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "MUC",
+                "Name": "Bd Munich Airport",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCT01",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.354042",
+                "Longitude": "11.785762",
+                "Address": {
+                    "StreetNmbr": "Flughafen Muenchen",
+                    "CityName": "Muenchen",
+                    "PostalCode": "85356",
+                    "StateProv_Name": "Muenchen",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MUCT61) MUNICH AIRPORT - MIETWAGENZENTRUM, MUENCHEN, Germany"
+    },
+    {
+        "id": "MC1",
+        "idBrand": 12,
+        "fullCode": "MUCC01",
+        "idCountry": 82,
+        "lat": "48.149323",
+        "lon": "11.547589",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "MC1",
+                "Name": "Muenchen/Munich Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCC01",
+                "Telephone": "08912600020",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.149323",
+                "Longitude": "11.547589",
+                "Address": {
+                    "StreetNmbr": "Nymphenburger Strasse 61",
+                    "CityName": "Muenchen",
+                    "PostalCode": "80335",
+                    "StateProv_Name": "Muenchen",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M3H",
+                "Name": "Bd Munich",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCC04",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.149323",
+                "Longitude": "11.547589",
+                "Address": {
+                    "StreetNmbr": "Nymphenburger Str 61",
+                    "CityName": "Muenchen",
+                    "PostalCode": "80335",
+                    "StateProv_Name": "Muenchen",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MC1) Muenchen/Munich Dt - Nymphenburger Strasse 61, Muenchen, Germany"
+    },
+    {
+        "id": "MC6",
+        "idBrand": 1,
+        "fullCode": "MUCC06",
+        "idCountry": 82,
+        "lat": "48.14804",
+        "lon": "11.62549",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "MC6",
+                "Name": "Muenchen/Munich Denninger Str",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCC06",
+                "Telephone": "089918004",
+                "Schedule": {
+                    "monday": {
+                        "start": "13:00",
+                        "end": "16:00"
+                    },
+                    "tuesday": {
+                        "start": "13:00",
+                        "end": "16:00"
+                    },
+                    "wednesday": {
+                        "start": "13:00",
+                        "end": "16:00"
+                    },
+                    "thursday": {
+                        "start": "13:00",
+                        "end": "16:00"
+                    },
+                    "friday": {
+                        "start": "13:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.14804",
+                "Longitude": "11.62549",
+                "Address": {
+                    "StreetNmbr": "Denninger Strasse 116",
+                    "CityName": "Muenchen",
+                    "PostalCode": "81925",
+                    "StateProv_Name": "Muenchen",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MC6) Muenchen/Munich Denninger Str - Denninger Strasse 116, Muenchen, Germany"
+    },
+    {
+        "id": "MC4",
+        "idBrand": 1,
+        "fullCode": "MUCC02",
+        "idCountry": 82,
+        "lat": "48.188274",
+        "lon": "11.533817",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "MC4",
+                "Name": "Muenchen/Munich Mo",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MUCC02",
+                "Telephone": "0893575380",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "10:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "10:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.188274",
+                "Longitude": "11.533817",
+                "Address": {
+                    "StreetNmbr": "Lassalle Strasse 3",
+                    "CityName": "Muenchen",
+                    "PostalCode": "80995",
+                    "StateProv_Name": "Muenchen",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MC4) Muenchen/Munich Mo - Lassalle Strasse 3, Muenchen, Germany"
+    }
+]

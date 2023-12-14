@@ -1,0 +1,1417 @@
+[
+    {
+        "id": "BSBT61",
+        "idBrand": 456,
+        "fullCode": "BSBT61",
+        "idCountry": 31,
+        "lat": "-15.869526",
+        "lon": "-47.921401",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "BSBT61",
+                "Name": "BRASILIA INTL AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBT61",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "-15.869526",
+                "Longitude": "-47.921401",
+                "Address": {
+                    "StreetNmbr": "AREA EXTERNA DO AEROPORTO INTE",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71608-900",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "BSBT01",
+                "Name": "BRASILIA INTL AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBT01",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "-15.869526",
+                "Longitude": "-47.921401",
+                "Address": {
+                    "StreetNmbr": "AREA EXTERNA DO AEROPORTO INTE",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71608-900",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "BSBT71",
+                "Name": "BRASILIA INTL AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBT71",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "-15.869526",
+                "Longitude": "-47.921401",
+                "Address": {
+                    "StreetNmbr": "AREA EXTERNA DO AEROPORTO INTE",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71608-900",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BSBT61) BRASILIA INTL AIRPORT - AREA EXTERNA DO AEROPORTO INTE, BRASILIA, Brazil"
+    },
+    {
+        "id": "BSBC74",
+        "idBrand": 456,
+        "fullCode": "BSBC74",
+        "idCountry": 31,
+        "lat": "-15.87072",
+        "lon": "-47.931443",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "BSBC74",
+                "Name": "BRASILIA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC74",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "-15.87072",
+                "Longitude": "-47.931443",
+                "Address": {
+                    "StreetNmbr": "HALL AREA EXTERNA DO AEROPORTO",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71608 900",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "BSBC04",
+                "Name": "BRASILIA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC04",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "-15.87071",
+                "Longitude": "-47.931443",
+                "Address": {
+                    "StreetNmbr": "HALL AREA EXTERNA DO",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71608 900",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BSBC64",
+                "Name": "BRASILIA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC64",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "-15.87073",
+                "Longitude": "-47.931443",
+                "Address": {
+                    "StreetNmbr": "HALL AREA EXTERNA DO AEROPORTO",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71608 900",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BSBC74) BRASILIA - HALL AREA EXTERNA DO AEROPORTO, BRASILIA, Brazil"
+    },
+    {
+        "id": "BSBC71",
+        "idBrand": 456,
+        "fullCode": "BSBC71",
+        "idCountry": 31,
+        "lat": "-15.790559",
+        "lon": "-47.884618",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "BSBC71",
+                "Name": "BRASILIA CENTRO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC71",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.790559",
+                "Longitude": "-47.884618",
+                "Address": {
+                    "StreetNmbr": "ST SCS QUADRA 7 BLOCO A  7",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "77701000",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "BSBC01",
+                "Name": "BRASILIA CENTRO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC01",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.790559",
+                "Longitude": "-47.884617",
+                "Address": {
+                    "StreetNmbr": "ST SCS QUADRA 7 BLOCO A  7",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "77701000",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BSBC61",
+                "Name": "BRASILIA CENTRO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC61",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.790559",
+                "Longitude": "-47.884619",
+                "Address": {
+                    "StreetNmbr": "ST SCS QUADRA 7BLOCO A 7",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "70701000",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BSBC71) BRASILIA CENTRO - ST SCS QUADRA 7 BLOCO A  7, BRASILIA, Brazil"
+    },
+    {
+        "id": "BSBC76",
+        "idBrand": 456,
+        "fullCode": "BSBC76",
+        "idCountry": 31,
+        "lat": "-15.779359",
+        "lon": "-47.887544",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "BSBC76",
+                "Name": "SETOR COMER NORTE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC76",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.779359",
+                "Longitude": "-47.887544",
+                "Address": {
+                    "StreetNmbr": "QUADRASEPN 503 BL A E E CONJ A",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "70730 501",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "BSBC06",
+                "Name": "ST COMER NORTE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC06",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.779359",
+                "Longitude": "-47.887544",
+                "Address": {
+                    "StreetNmbr": "QUADRA SEPN 503 BL",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "70730 501",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BSBC56",
+                "Name": "ST COMER NORTE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC56",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.779359",
+                "Longitude": "-47.887544",
+                "Address": {
+                    "StreetNmbr": "QUADRA SEPN 503 BL A E",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "70730 501",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BSBC76) SETOR COMER NORTE - QUADRASEPN 503 BL A E E CONJ A, BRASILIA, Brazil"
+    },
+    {
+        "id": "BSBC75",
+        "idBrand": 456,
+        "fullCode": "BSBC75",
+        "idCountry": 31,
+        "lat": "-15.805862",
+        "lon": "-47.960175",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "BSBC75",
+                "Name": "BRASILIA SIA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC75",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.805862",
+                "Longitude": "-47.960175",
+                "Address": {
+                    "StreetNmbr": "RUA SIA TRECHO 2 L 91092093094",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71200 020",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "BSBC05",
+                "Name": "BRASILIA SIA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC05",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.805861",
+                "Longitude": "-47.960175",
+                "Address": {
+                    "StreetNmbr": "RUA SIA TRECHO 2 L",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71200 020",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BSBC65",
+                "Name": "BRASILIA SIA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BSBC65",
+                "Telephone": "08009792020",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "-15.805863",
+                "Longitude": "-47.960175",
+                "Address": {
+                    "StreetNmbr": "RUA SIA TRECHO 2 L 91092093094",
+                    "CityName": "BRASILIA",
+                    "PostalCode": "71200 020",
+                    "StateProv_Name": "BRASILIA",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BSBC75) BRASILIA SIA - RUA SIA TRECHO 2 L 91092093094, BRASILIA, Brazil"
+    }
+]

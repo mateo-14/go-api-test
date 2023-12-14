@@ -1,0 +1,2438 @@
+[
+    {
+        "id": "BCNT61",
+        "idBrand": 12456,
+        "fullCode": "BCNT61",
+        "idCountry": 208,
+        "lat": "41.28827",
+        "lon": "2.07269",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO",
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "BCNT61",
+                "Name": "BARCELONA ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNT61",
+                "Telephone": "935219095",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "41.28827",
+                "Longitude": "2.07269",
+                "Address": {
+                    "StreetNmbr": "AEROPUERTO DEL PRAT",
+                    "CityName": "PRAT DE LLOBREGAT, EL",
+                    "PostalCode": "08820",
+                    "StateProv_Name": "PRAT DE LLOBREGAT, EL",
+                    "StateCode": "B"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "BCNT03",
+                "Name": "BARCELONA ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNT03",
+                "Telephone": "935219095",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "41.28827",
+                "Longitude": "2.0727",
+                "Address": {
+                    "StreetNmbr": "ENTEPRISE RENT A CAR",
+                    "CityName": "PRAT DE LLOBREGAT, EL",
+                    "PostalCode": "08820",
+                    "StateProv_Name": "PRAT DE LLOBREGAT, EL",
+                    "StateCode": "B"
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "BCNT73",
+                "Name": "BARCELONA ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNT73",
+                "Telephone": "935219095",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "41.28827",
+                "Longitude": "2.07271",
+                "Address": {
+                    "StreetNmbr": "ENTERPRISE RENT A CAR",
+                    "CityName": "PRAT DE LLOBREGAT, EL",
+                    "PostalCode": "08820",
+                    "StateProv_Name": "PRAT DE LLOBREGAT, EL",
+                    "StateCode": "B"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "BCN",
+                "Name": "Bd Barcelona Apt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNT01",
+                "Telephone": "902 108 495",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "41.288967",
+                "Longitude": "2.074286",
+                "Address": {
+                    "StreetNmbr": "Bcn T1 & T2 Pick Up Dropoff",
+                    "CityName": "Barcelona",
+                    "PostalCode": "08820",
+                    "StateProv_Name": "Barcelona",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "BCN",
+                "Name": "Barcelona Apt (El Prat)",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNT01",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "41.288967",
+                "Longitude": "2.074286",
+                "Address": {
+                    "StreetNmbr": "Bcn T1 & T2 Pick Up Dropoff",
+                    "CityName": "Barcelona",
+                    "PostalCode": "08820",
+                    "StateProv_Name": "Barcelona",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(BCN) Barcelona Apt (El Prat) - Bcn T1 & T2 Pick Up Dropoff, Barcelona, Spain"
+    },
+    {
+        "id": "BC6",
+        "idBrand": 126,
+        "fullCode": "BCNX05",
+        "idCountry": 208,
+        "lat": "41.379765",
+        "lon": "2.142045",
+        "icon": [
+            "AVIS",
+            "BUDGET",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "BC6",
+                "Name": "Barcelona Sants Stn",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNX05",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "21:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "21:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "21:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.379765",
+                "Longitude": "2.142045",
+                "Address": {
+                    "StreetNmbr": "Rector Triado N 104",
+                    "CityName": "Barcelona",
+                    "PostalCode": "08014",
+                    "StateProv_Name": "Barcelona",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "B94",
+                "Name": "Budget Barcelona Sants",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNX01",
+                "Telephone": "902 110 293",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "21:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "21:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "21:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.379765",
+                "Longitude": "2.142045",
+                "Address": {
+                    "StreetNmbr": "Rector Triado N 104",
+                    "CityName": "Barcelona",
+                    "PostalCode": "08014",
+                    "StateProv_Name": "Barcelona",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNC68",
+                "Name": "BARCELONA SANTS FURGOS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC68",
+                "Telephone": "935210028",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.380178",
+                "Longitude": "2.140415",
+                "Address": {
+                    "StreetNmbr": "PLAZA DELS PAISOS CATALANS S N",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08014",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BC6) Barcelona Sants Stn - Rector Triado N 104, Barcelona, Spain"
+    },
+    {
+        "id": "S4X",
+        "idBrand": 1,
+        "fullCode": "BCNC04",
+        "idCountry": 208,
+        "lat": "41.3911",
+        "lon": "2.165898",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "S4X",
+                "Name": "Barcelona City Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC04",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "12:45"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        }
+                    ]
+                },
+                "Latitude": "41.3911",
+                "Longitude": "2.165898",
+                "Address": {
+                    "StreetNmbr": "Rambla Catalunya 40",
+                    "CityName": "Barcelona",
+                    "PostalCode": "08007",
+                    "StateProv_Name": "Barcelona",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(S4X) Barcelona City Dt - Rambla Catalunya 40, Barcelona, Spain"
+    },
+    {
+        "id": "C11",
+        "idBrand": 2,
+        "fullCode": "BCNC01",
+        "idCountry": 208,
+        "lat": "41.39461",
+        "lon": "2.15663",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "C11",
+                "Name": "Barcelona City Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC01",
+                "Telephone": "902 110 275",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "18:45"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "12:45"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:45"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:45"
+                        }
+                    ]
+                },
+                "Latitude": "41.39461",
+                "Longitude": "2.15663",
+                "Address": {
+                    "StreetNmbr": "Rambla Catalunya 40",
+                    "CityName": "Barcelona",
+                    "PostalCode": "08007",
+                    "StateProv_Name": "Barcelona",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(C11) Barcelona City Dt - Rambla Catalunya 40, Barcelona, Spain"
+    },
+    {
+        "id": "BCNC75",
+        "idBrand": 456,
+        "fullCode": "BCNC75",
+        "idCountry": 208,
+        "lat": "41.3857",
+        "lon": "2.1711",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "BCNC75",
+                "Name": "BARCELONA PL CATALUNYA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC75",
+                "Telephone": "935210025",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.3857",
+                "Longitude": "2.1711",
+                "Address": {
+                    "StreetNmbr": "CARRER RIVADENEYRA, 3",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08002",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": "B"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "BCNC15",
+                "Name": "BARCELONA PL CATALUNYA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC15",
+                "Telephone": "935210025",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.3857",
+                "Longitude": "2.1711",
+                "Address": {
+                    "StreetNmbr": "CARRER RIVADENEYRA 3",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08002",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": "B"
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNC65",
+                "Name": "BARCELONA PL CATALUNYA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC65",
+                "Telephone": "935210025",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.3857",
+                "Longitude": "2.1711",
+                "Address": {
+                    "StreetNmbr": "CARRER RIVADENEYRA, 3",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08002",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNC75) BARCELONA PL CATALUNYA - CARRER RIVADENEYRA, 3, BARCELONA, Spain"
+    },
+    {
+        "id": "BCNX74",
+        "idBrand": 456,
+        "fullCode": "BCNX74",
+        "idCountry": 208,
+        "lat": "41.377716",
+        "lon": "2.139491",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "BCNX74",
+                "Name": "BARCELONA ESTACION AVE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNX74",
+                "Telephone": "934910189",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.377716",
+                "Longitude": "2.139491",
+                "Address": {
+                    "StreetNmbr": "EST. AVE SANTS. PARKING SABA",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08014",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": "B"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "BCNX04",
+                "Name": "BARCELONA ESTACION AVE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNX04",
+                "Telephone": "934910189",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.377709",
+                "Longitude": "2.139496",
+                "Address": {
+                    "StreetNmbr": "EST. AVE SANTS. PARKING SABA",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08014",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": "B"
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNX68",
+                "Name": "BARCELONA ESTACION AVE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNX68",
+                "Telephone": "934910189",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.377728",
+                "Longitude": "2.13947",
+                "Address": {
+                    "StreetNmbr": "EST. AVE SANTS. PARKING SABA",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08014",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNX74) BARCELONA ESTACION AVE - EST. AVE SANTS. PARKING SABA, BARCELONA, Spain"
+    },
+    {
+        "id": "BCNC63",
+        "idBrand": 6,
+        "fullCode": "BCNC63",
+        "idCountry": 208,
+        "lat": "41.3245",
+        "lon": "2.0363",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNC63",
+                "Name": "BARCELONA SANT BOI",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC63",
+                "Telephone": "934785802",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.3245",
+                "Longitude": "2.0363",
+                "Address": {
+                    "StreetNmbr": "52 CARRER",
+                    "CityName": "SANT BOI DE LLOBREGAT",
+                    "PostalCode": "08830",
+                    "StateProv_Name": "SANT BOI DE LLOBREGAT",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNC63) BARCELONA SANT BOI - 52 CARRER, SANT BOI DE LLOBREGAT, Spain"
+    },
+    {
+        "id": "BCNC62",
+        "idBrand": 6,
+        "fullCode": "BCNC62",
+        "idCountry": 208,
+        "lat": "41.4002",
+        "lon": "2.1931",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNC62",
+                "Name": "BARCELONA POBLE NOU",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC62",
+                "Telephone": "933056153",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.4002",
+                "Longitude": "2.1931",
+                "Address": {
+                    "StreetNmbr": "125 CARRER DE BADAJOZ",
+                    "CityName": "BARCELONA",
+                    "PostalCode": "08018",
+                    "StateProv_Name": "BARCELONA",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNC62) BARCELONA POBLE NOU - 125 CARRER DE BADAJOZ, BARCELONA, Spain"
+    },
+    {
+        "id": "BCNC64",
+        "idBrand": 6,
+        "fullCode": "BCNC64",
+        "idCountry": 208,
+        "lat": "41.603537",
+        "lon": "2.277361",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNC64",
+                "Name": "BARCELONA GRANOLLERS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC64",
+                "Telephone": "938494644",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.603537",
+                "Longitude": "2.277361",
+                "Address": {
+                    "StreetNmbr": "89 CARRER DE JORDI CAMP",
+                    "CityName": "GRANOLLERS",
+                    "PostalCode": "08403",
+                    "StateProv_Name": "GRANOLLERS",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNC64) BARCELONA GRANOLLERS - 89 CARRER DE JORDI CAMP, GRANOLLERS, Spain"
+    },
+    {
+        "id": "BCNN63",
+        "idBrand": 6,
+        "fullCode": "BCNN63",
+        "idCountry": 208,
+        "lat": "41.471196",
+        "lon": "2.254059",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNN63",
+                "Name": "BARCELONA BADALONA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNN63",
+                "Telephone": "935219103",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.471196",
+                "Longitude": "2.254059",
+                "Address": {
+                    "StreetNmbr": "RIERA DE MONTALEGRE, 12",
+                    "CityName": "BADALONA",
+                    "PostalCode": "08916",
+                    "StateProv_Name": "BADALONA",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNN63) BARCELONA BADALONA - RIERA DE MONTALEGRE, 12, BADALONA, Spain"
+    },
+    {
+        "id": "BCNX63",
+        "idBrand": 6,
+        "fullCode": "BCNX63",
+        "idCountry": 208,
+        "lat": "41.533342",
+        "lon": "2.103557",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNX63",
+                "Name": "BARCELONA SABADELL",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNX63",
+                "Telephone": "937121507",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.533342",
+                "Longitude": "2.103557",
+                "Address": {
+                    "StreetNmbr": "CALLE DE FRANCESC EIXIMENIS 6",
+                    "CityName": "SABADELL",
+                    "PostalCode": "08205",
+                    "StateProv_Name": "SABADELL",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNX63) BARCELONA SABADELL - CALLE DE FRANCESC EIXIMENIS 6, SABADELL, Spain"
+    },
+    {
+        "id": "BCNN62",
+        "idBrand": 6,
+        "fullCode": "BCNN62",
+        "idCountry": 208,
+        "lat": "41.7335",
+        "lon": "1.8395",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNN62",
+                "Name": "BARCELONA MANRESA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNN62",
+                "Telephone": "938739137",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.7335",
+                "Longitude": "1.8395",
+                "Address": {
+                    "StreetNmbr": "222 CTRA. DE VIC",
+                    "CityName": "MANRESA",
+                    "PostalCode": "08243",
+                    "StateProv_Name": "MANRESA",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNN62) BARCELONA MANRESA - 222 CTRA. DE VIC, MANRESA, Spain"
+    },
+    {
+        "id": "BCNC69",
+        "idBrand": 6,
+        "fullCode": "BCNC69",
+        "idCountry": 208,
+        "lat": "41.5329",
+        "lon": "2.4249",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNC69",
+                "Name": "BARCELONA MATARO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNC69",
+                "Telephone": "937586868",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.5329",
+                "Longitude": "2.4249",
+                "Address": {
+                    "StreetNmbr": "42 CARRER BATISTA I ROCA",
+                    "CityName": "MATARO",
+                    "PostalCode": "08302",
+                    "StateProv_Name": "MATARO",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNC69) BARCELONA MATARO - 42 CARRER BATISTA I ROCA, MATARO, Spain"
+    },
+    {
+        "id": "BCNN61",
+        "idBrand": 6,
+        "fullCode": "BCNN61",
+        "idCountry": 208,
+        "lat": "41.5568",
+        "lon": "2.008",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BCNN61",
+                "Name": "BARCELONA TERRASSA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BCNN61",
+                "Telephone": "936191006",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.5568",
+                "Longitude": "2.008",
+                "Address": {
+                    "StreetNmbr": "ESTACION DE AUTOBUSES TERRASSA",
+                    "CityName": "TERRASSA",
+                    "PostalCode": "08223",
+                    "StateProv_Name": "TERRASSA",
+                    "StateCode": "B"
+                }
+            }
+        ],
+        "name": "(BCNN61) BARCELONA TERRASSA - ESTACION DE AUTOBUSES TERRASSA, TERRASSA, Spain"
+    }
+]

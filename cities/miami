@@ -1,0 +1,5125 @@
+[
+    {
+        "id": "MIAT01",
+        "idBrand": 1245,
+        "fullCode": "MIAT01",
+        "idCountry": 235,
+        "lat": "25.798618",
+        "lon": "-80.25995",
+        "icon": [
+            "NATIONAL",
+            "ALAMO",
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "MIAT01",
+                "Name": "MIAMI INTL ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAT01",
+                "Telephone": "8448878399",
+                "Schedule": {
+                    "monday": {
+                        "start": "5:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "5:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "5:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "5:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "5:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "5:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "5:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "5:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "5:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "5:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "5:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "5:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "5:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "5:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "25.798618",
+                "Longitude": "-80.25995",
+                "Address": {
+                    "StreetNmbr": "3900 NW 25TH ST",
+                    "CityName": "MIAMI",
+                    "PostalCode": "33142",
+                    "StateProv_Name": "MIAMI",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "MIAT71",
+                "Name": "MIAMI INTL ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAT71",
+                "Telephone": "8448910547",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "25.797",
+                "Longitude": "-80.2603",
+                "Address": {
+                    "StreetNmbr": "3900 NW 25TH ST",
+                    "CityName": "MIAMI",
+                    "PostalCode": "33142",
+                    "StateProv_Name": "MIAMI",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "MIA",
+                "Name": "Miami International Airport",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAT01",
+                "Telephone": "305-876-1820",
+                "Schedule": {
+                    "monday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "tuesday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "wednesday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "thursday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "friday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "saturday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "sunday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.796997",
+                "Longitude": "-80.25969",
+                "Address": {
+                    "StreetNmbr": "3900 Nw 25th Street, Suite 403",
+                    "CityName": "Miami",
+                    "PostalCode": "33142",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "MIA",
+                "Name": "Miami International Airport",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAT01",
+                "Telephone": "305-876-1800",
+                "Schedule": {
+                    "monday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "tuesday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "wednesday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "thursday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "friday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "saturday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    },
+                    "sunday": {
+                        "start": "05:00",
+                        "end": "01:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "05:00",
+                            "end": "01:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.796684",
+                "Longitude": "-80.262",
+                "Address": {
+                    "StreetNmbr": "3900 Nw 25th Street, Ste 402",
+                    "CityName": "Miami",
+                    "PostalCode": "33142",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(MIA) Miami International Airport - 3900 Nw 25th Street, Ste 402, Miami, United States"
+    },
+    {
+        "id": "C1R",
+        "idBrand": 12,
+        "fullCode": "MIAC02",
+        "idCountry": 235,
+        "lat": "25.692892",
+        "lon": "-80.305115",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "C1R",
+                "Name": "Avis Of South Miami",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC02",
+                "Telephone": "305-661-6414",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.692892",
+                "Longitude": "-80.305115",
+                "Address": {
+                    "StreetNmbr": "8330 South Dixie Highway",
+                    "CityName": "Miami",
+                    "PostalCode": "33143",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M5F",
+                "Name": "Miami Fl",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC05",
+                "Telephone": "305-669-5506",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.692892",
+                "Longitude": "-80.305115",
+                "Address": {
+                    "StreetNmbr": "8330 South Dixie Highway",
+                    "CityName": "Miami",
+                    "PostalCode": "33143",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(C1R) Avis Of South Miami - 8330 South Dixie Highway, Miami, United States"
+    },
+    {
+        "id": "MB2",
+        "idBrand": 1,
+        "fullCode": "MIAR01",
+        "idCountry": 235,
+        "lat": "25.799185",
+        "lon": "-80.12784",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "MB2",
+                "Name": "Avis Of South Miami Beach Fl.",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAR01",
+                "Telephone": "305-538-4441",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.799185",
+                "Longitude": "-80.12784",
+                "Address": {
+                    "StreetNmbr": "2334 Collins Ave",
+                    "CityName": "Miami Beach",
+                    "PostalCode": "33139",
+                    "StateProv_Name": "Miami Beach",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(MB2) Avis Of South Miami Beach Fl. - 2334 Collins Ave, Miami Beach, United States"
+    },
+    {
+        "id": "M6I",
+        "idBrand": 12,
+        "fullCode": "MIAC04",
+        "idCountry": 235,
+        "lat": "25.77267",
+        "lon": "-80.19203",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "M6I",
+                "Name": "Miami Downtown",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC04",
+                "Telephone": "305-379-1317",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.77267",
+                "Longitude": "-80.19203",
+                "Address": {
+                    "StreetNmbr": "99 Southeast 2nd Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33131",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M5E",
+                "Name": "Miami Downtown",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC15",
+                "Telephone": "305-377-4410",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.77277",
+                "Longitude": "-80.19231",
+                "Address": {
+                    "StreetNmbr": "89 Se 2nd Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33131",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(M6I) Miami Downtown - 99 Southeast 2nd Street, Miami, United States"
+    },
+    {
+        "id": "G0M",
+        "idBrand": 12,
+        "fullCode": "MIAC08",
+        "idCountry": 235,
+        "lat": "25.78388",
+        "lon": "-80.26294",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "G0M",
+                "Name": "Miami Coral Gables",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC08",
+                "Telephone": "305-648-2252",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.78388",
+                "Longitude": "-80.26294",
+                "Address": {
+                    "StreetNmbr": "1201 Nw Le Jeune Road",
+                    "CityName": "Miami",
+                    "PostalCode": "33126",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "QM5",
+                "Name": "Miami Coral Gables",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC04",
+                "Telephone": "305-774-9521",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.78388",
+                "Longitude": "-80.26294",
+                "Address": {
+                    "StreetNmbr": "1201 Nw Le Jeune Road",
+                    "CityName": "Miami",
+                    "PostalCode": "33126",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(G0M) Miami Coral Gables - 1201 Nw Le Jeune Road, Miami, United States"
+    },
+    {
+        "id": "KE0",
+        "idBrand": 1,
+        "fullCode": "MIAC10",
+        "idCountry": 235,
+        "lat": "25.68995",
+        "lon": "-80.38799",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "KE0",
+                "Name": "Miami Kendall",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC10",
+                "Telephone": "305-273-7226",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.68995",
+                "Longitude": "-80.38799",
+                "Address": {
+                    "StreetNmbr": "8350 Mills Drive",
+                    "CityName": "Miami",
+                    "PostalCode": "33183",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(KE0) Miami Kendall - 8350 Mills Drive, Miami, United States"
+    },
+    {
+        "id": "T6T",
+        "idBrand": 12,
+        "fullCode": "SRQC02",
+        "idCountry": 235,
+        "lat": "27.254236",
+        "lon": "-82.51757",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "T6T",
+                "Name": "Sarasota",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "SRQC02",
+                "Telephone": "941-927-3220",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "27.254236",
+                "Longitude": "-82.51757",
+                "Address": {
+                    "StreetNmbr": "7010 South Tamiami Trail",
+                    "CityName": "Sarasota",
+                    "PostalCode": "34231",
+                    "StateProv_Name": "Sarasota",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "SQ3",
+                "Name": "Sarasota",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "SRQS04",
+                "Telephone": "941-921-7408",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "27.254442",
+                "Longitude": "-82.517746",
+                "Address": {
+                    "StreetNmbr": "7010 South Tamiami Trail",
+                    "CityName": "Sarasota",
+                    "PostalCode": "34231",
+                    "StateProv_Name": "Sarasota",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(T6T) Sarasota - 7010 South Tamiami Trail, Sarasota, United States"
+    },
+    {
+        "id": "M2B",
+        "idBrand": 12,
+        "fullCode": "DAYC11",
+        "idCountry": 235,
+        "lat": "39.63371",
+        "lon": "-84.22278",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "M2B",
+                "Name": "Miamisburg-Dayton Mall",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "DAYC11",
+                "Telephone": "937-435-4404",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "12:30"
+                    },
+                    "sunday": {
+                        "start": "10:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "12:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "10:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "39.63371",
+                "Longitude": "-84.22278",
+                "Address": {
+                    "StreetNmbr": "2700 Miamisburg Centerville Rd",
+                    "CityName": "Centerville",
+                    "PostalCode": "45459",
+                    "StateProv_Name": "Centerville",
+                    "StateCode": "OH"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "DM6",
+                "Name": "Miamisburg-Dayton Mall",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "DAYC02",
+                "Telephone": "937-428-5694",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "17:30"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "12:30"
+                    },
+                    "sunday": {
+                        "start": "10:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "12:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "10:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "39.633713",
+                "Longitude": "-84.222786",
+                "Address": {
+                    "StreetNmbr": "2700 Miamisburg Centerville Rd",
+                    "CityName": "Centerville",
+                    "PostalCode": "45459",
+                    "StateProv_Name": "Centerville",
+                    "StateCode": "OH"
+                }
+            }
+        ],
+        "name": "(M2B) Miamisburg-Dayton Mall - 2700 Miamisburg Centerville Rd, Centerville, United States"
+    },
+    {
+        "id": "S5Q",
+        "idBrand": 12,
+        "fullCode": "FMYN02",
+        "idCountry": 235,
+        "lat": "26.980993",
+        "lon": "-82.09863",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "S5Q",
+                "Name": "Port Charlotte",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FMYN02",
+                "Telephone": "941-624-2340",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.980993",
+                "Longitude": "-82.09863",
+                "Address": {
+                    "StreetNmbr": "3351 Tamiami Trail",
+                    "CityName": "Port Charlotte",
+                    "PostalCode": "33952",
+                    "StateProv_Name": "Port Charlotte",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "P5C",
+                "Name": "Port Charlotte",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FMYN01",
+                "Telephone": "941-255-9037",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.98096",
+                "Longitude": "-82.0986",
+                "Address": {
+                    "StreetNmbr": "3351 Tamiami Trail",
+                    "CityName": "Port Charlotte",
+                    "PostalCode": "33952",
+                    "StateProv_Name": "Port Charlotte",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(S5Q) Port Charlotte - 3351 Tamiami Trail, Port Charlotte, United States"
+    },
+    {
+        "id": "QF1",
+        "idBrand": 12,
+        "fullCode": "FLLC15",
+        "idCountry": 235,
+        "lat": "26.091581",
+        "lon": "-80.13569",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "QF1",
+                "Name": "Ft Lauderdale Cruiseport Shttl",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FLLC15",
+                "Telephone": "954-713-1500",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.091581",
+                "Longitude": "-80.13569",
+                "Address": {
+                    "StreetNmbr": "2520 Miami Rd",
+                    "CityName": "Fort Lauderdale",
+                    "PostalCode": "33316",
+                    "StateProv_Name": "Fort Lauderdale",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "EV3",
+                "Name": "Ft Lauderdale Cruiseport Shttl",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FLLC07",
+                "Telephone": "954-761-7231",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.091633",
+                "Longitude": "-80.13561",
+                "Address": {
+                    "StreetNmbr": "2520 Miami Rd",
+                    "CityName": "Fort Lauderdale",
+                    "PostalCode": "33316",
+                    "StateProv_Name": "Fort Lauderdale",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(QF1) Ft Lauderdale Cruiseport Shttl - 2520 Miami Rd, Fort Lauderdale, United States"
+    },
+    {
+        "id": "Q8M",
+        "idBrand": 12,
+        "fullCode": "MIAC03",
+        "idCountry": 235,
+        "lat": "25.774557",
+        "lon": "-80.171",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "Q8M",
+                "Name": "Port Miami Cruiseship Shuttle",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC03",
+                "Telephone": "305-379-1317",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.774557",
+                "Longitude": "-80.171",
+                "Address": {
+                    "StreetNmbr": "99 Southeast 2nd Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33131",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "P2F",
+                "Name": "Port Miami Cruiseship Shuttle",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC16",
+                "Telephone": "305-377-4410",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.776423",
+                "Longitude": "-80.171616",
+                "Address": {
+                    "StreetNmbr": "89 Se 2nd Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33131",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(Q8M) Port Miami Cruiseship Shuttle - 99 Southeast 2nd Street, Miami, United States"
+    },
+    {
+        "id": "X6M",
+        "idBrand": 12,
+        "fullCode": "MIAC05",
+        "idCountry": 235,
+        "lat": "25.829435",
+        "lon": "-80.31722",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "X6M",
+                "Name": "Miami",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC05",
+                "Telephone": "305-887-7865",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.829435",
+                "Longitude": "-80.31722",
+                "Address": {
+                    "StreetNmbr": "6101 Northwest 74th Avenue",
+                    "CityName": "Miami",
+                    "PostalCode": "33166",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "MF4",
+                "Name": "Miami",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC08",
+                "Telephone": "305-885-6868",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.82949",
+                "Longitude": "-80.31747",
+                "Address": {
+                    "StreetNmbr": "6101 Northwest 74th Avenue",
+                    "CityName": "Miami",
+                    "PostalCode": "33166",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(X6M) Miami - 6101 Northwest 74th Avenue, Miami, United States"
+    },
+    {
+        "id": "N6F",
+        "idBrand": 12,
+        "fullCode": "APFC01",
+        "idCountry": 235,
+        "lat": "26.274725",
+        "lon": "-81.80043",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "N6F",
+                "Name": "Naples North",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "APFC01",
+                "Telephone": "239-596-6810",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.274725",
+                "Longitude": "-81.80043",
+                "Address": {
+                    "StreetNmbr": "11228 Tamiami Trail North",
+                    "CityName": "Naples",
+                    "PostalCode": "34110",
+                    "StateProv_Name": "Naples",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "X5B",
+                "Name": "North Naples",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "APFC01",
+                "Telephone": "239-254-8061",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.27473",
+                "Longitude": "-81.800415",
+                "Address": {
+                    "StreetNmbr": "11228 Tamiami Trail North",
+                    "CityName": "Naples",
+                    "PostalCode": "34110",
+                    "StateProv_Name": "Naples",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(N6F) Naples North - 11228 Tamiami Trail North, Naples, United States"
+    },
+    {
+        "id": "QQ5",
+        "idBrand": 12,
+        "fullCode": "MIAE01",
+        "idCountry": 235,
+        "lat": "25.851484",
+        "lon": "-80.12065",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "QQ5",
+                "Name": "Miami Beach",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAE01",
+                "Telephone": "305-865-0562",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.851484",
+                "Longitude": "-80.12065",
+                "Address": {
+                    "StreetNmbr": "6742 Collins Avenue",
+                    "CityName": "Miami Beach",
+                    "PostalCode": "33141",
+                    "StateProv_Name": "Miami Beach",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M57",
+                "Name": "Miami Beach",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAE01",
+                "Telephone": "305-865-4447",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.851484",
+                "Longitude": "-80.12065",
+                "Address": {
+                    "StreetNmbr": "6742 Collins Avenue",
+                    "CityName": "Miami Beach",
+                    "PostalCode": "33141",
+                    "StateProv_Name": "Miami Beach",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(QQ5) Miami Beach - 6742 Collins Avenue, Miami Beach, United States"
+    },
+    {
+        "id": "F1M",
+        "idBrand": 12,
+        "fullCode": "FMYS01",
+        "idCountry": 235,
+        "lat": "26.424498",
+        "lon": "-81.81271",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "F1M",
+                "Name": "Estero",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FMYS01",
+                "Telephone": "239-949-8657",
+                "Schedule": {
+                    "monday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.424498",
+                "Longitude": "-81.81271",
+                "Address": {
+                    "StreetNmbr": "21740 S Tamiami Trl Ste 115",
+                    "CityName": "Estero",
+                    "PostalCode": "33928",
+                    "StateProv_Name": "Estero",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "F3M",
+                "Name": "Estero",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FMYS01",
+                "Telephone": "239-949-9152",
+                "Schedule": {
+                    "monday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.424498",
+                "Longitude": "-81.81271",
+                "Address": {
+                    "StreetNmbr": "21740 S Tamiami Trl Ste 115",
+                    "CityName": "Estero",
+                    "PostalCode": "33928",
+                    "StateProv_Name": "Estero",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(F1M) Estero - 21740 S Tamiami Trl Ste 115, Estero, United States"
+    },
+    {
+        "id": "B9M",
+        "idBrand": 12,
+        "fullCode": "MIAC22",
+        "idCountry": 235,
+        "lat": "25.732744",
+        "lon": "-80.30459",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "B9M",
+                "Name": "Miami Bird Road",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC22",
+                "Telephone": "305-667-3205",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.732744",
+                "Longitude": "-80.30459",
+                "Address": {
+                    "StreetNmbr": "6796 Southwest 40th Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33155",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M4B",
+                "Name": "Miami Bird Road",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC22",
+                "Telephone": "305-667-3180",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.732744",
+                "Longitude": "-80.30459",
+                "Address": {
+                    "StreetNmbr": "6796 Southwest 40th Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33155",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(B9M) Miami Bird Road - 6796 Southwest 40th Street, Miami, United States"
+    },
+    {
+        "id": "BLMIA",
+        "idBrand": 1,
+        "fullCode": "MIAX01",
+        "idCountry": 235,
+        "lat": "25.780064",
+        "lon": "-80.197075",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "BLMIA",
+                "Name": "Miami",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAX01",
+                "Telephone": "786-323-6341",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "10:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "10:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.780064",
+                "Longitude": "-80.197075",
+                "Address": {
+                    "StreetNmbr": "153 Nw 6th Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33136",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(BLMIA) Miami - 153 Nw 6th Street, Miami, United States"
+    },
+    {
+        "id": "AVFLH",
+        "idBrand": 1,
+        "fullCode": "MIAE02",
+        "idCountry": 235,
+        "lat": "25.789436",
+        "lon": "-80.12973",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "AVFLH",
+                "Name": "Loews Miami Beach Hotel",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAE02",
+                "Telephone": "786-454-9222",
+                "Schedule": {
+                    "monday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    },
+                    "tuesday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    },
+                    "wednesday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    },
+                    "thursday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    },
+                    "friday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.789436",
+                "Longitude": "-80.12973",
+                "Address": {
+                    "StreetNmbr": "1601 Collins Ave",
+                    "CityName": "Miami Beach",
+                    "PostalCode": "33139",
+                    "StateProv_Name": "Miami Beach",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(AVFLH) Loews Miami Beach Hotel - 1601 Collins Ave, Miami Beach, United States"
+    },
+    {
+        "id": "AV1TF",
+        "idBrand": 12,
+        "fullCode": "MIAC01",
+        "idCountry": 235,
+        "lat": "25.645716",
+        "lon": "-80.33975",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "AV1TF",
+                "Name": "The Falls Miami",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC01",
+                "Telephone": "786-713-4500",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.645716",
+                "Longitude": "-80.33975",
+                "Address": {
+                    "StreetNmbr": "8888 Sw 136th Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33176",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "BG1TF",
+                "Name": "The Falls Miami",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC01",
+                "Telephone": "786-713-4502",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.645716",
+                "Longitude": "-80.33975",
+                "Address": {
+                    "StreetNmbr": "8888 Sw 136th Street",
+                    "CityName": "Miami",
+                    "PostalCode": "33176",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(AV1TF) The Falls Miami - 8888 Sw 136th Street, Miami, United States"
+    },
+    {
+        "id": "M4F",
+        "idBrand": 2,
+        "fullCode": "MIAC13",
+        "idCountry": 235,
+        "lat": "25.68431",
+        "lon": "-80.41843",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M4F",
+                "Name": "Miami",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC13",
+                "Telephone": "305-380-7375",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.68431",
+                "Longitude": "-80.41843",
+                "Address": {
+                    "StreetNmbr": "13760 North Kendall Drive",
+                    "CityName": "Miami",
+                    "PostalCode": "33186",
+                    "StateProv_Name": "Miami",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(M4F) Miami - 13760 North Kendall Drive, Miami, United States"
+    },
+    {
+        "id": "M58",
+        "idBrand": 2,
+        "fullCode": "MIAN01",
+        "idCountry": 235,
+        "lat": "25.92719",
+        "lon": "-80.13975",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M58",
+                "Name": "North Miami Beach",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAN01",
+                "Telephone": "786-274-1494",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.92719",
+                "Longitude": "-80.13975",
+                "Address": {
+                    "StreetNmbr": "3043 Northeast 163rd Street",
+                    "CityName": "North Miami Beach",
+                    "PostalCode": "33160",
+                    "StateProv_Name": "North Miami Beach",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(M58) North Miami Beach - 3043 Northeast 163rd Street, North Miami Beach, United States"
+    },
+    {
+        "id": "M1B",
+        "idBrand": 2,
+        "fullCode": "MIAE02",
+        "idCountry": 235,
+        "lat": "25.780018",
+        "lon": "-80.14193",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M1B",
+                "Name": "Miami Beach",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAE02",
+                "Telephone": "305-674-8486",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.780018",
+                "Longitude": "-80.14193",
+                "Address": {
+                    "StreetNmbr": "959 West Avenue, Suite 6",
+                    "CityName": "Miami Beach",
+                    "PostalCode": "33139",
+                    "StateProv_Name": "Miami Beach",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(M1B) Miami Beach - 959 West Avenue, Suite 6, Miami Beach, United States"
+    },
+    {
+        "id": "MIAR71",
+        "idBrand": 45,
+        "fullCode": "MIAR71",
+        "idCountry": 235,
+        "lat": "25.9325",
+        "lon": "-80.1228",
+        "icon": [
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "MIAR71",
+                "Name": "MIAMI SUNNY ISLES BEACH",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAR71",
+                "Telephone": "3059470214",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.9325",
+                "Longitude": "-80.1228",
+                "Address": {
+                    "StreetNmbr": "16850 COLLINS AVE",
+                    "CityName": "SUNNY ISLES BEACH",
+                    "PostalCode": "33160",
+                    "StateProv_Name": "SUNNY ISLES BEACH",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "MIAC01",
+                "Name": "MIAMI SUNNY ISLES BEACH",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAC01",
+                "Telephone": "3059470214",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "16:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.9325",
+                "Longitude": "-80.1228",
+                "Address": {
+                    "StreetNmbr": "16850 COLLINS AVE",
+                    "CityName": "SUNNY ISLES BEACH",
+                    "PostalCode": "33160",
+                    "StateProv_Name": "SUNNY ISLES BEACH",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(MIAR71) MIAMI SUNNY ISLES BEACH - 16850 COLLINS AVE, SUNNY ISLES BEACH, United States"
+    },
+    {
+        "id": "MIAS71",
+        "idBrand": 45,
+        "fullCode": "MIAS71",
+        "idCountry": 235,
+        "lat": "25.8152",
+        "lon": "-80.1231",
+        "icon": [
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "MIAS71",
+                "Name": "MIAMI S BEACH COLLINS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAS71",
+                "Telephone": "8888266893",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.8152",
+                "Longitude": "-80.1231",
+                "Address": {
+                    "StreetNmbr": "4332 COLLINS AVE",
+                    "CityName": "MIAMI BEACH",
+                    "PostalCode": "33140",
+                    "StateProv_Name": "MIAMI BEACH",
+                    "StateCode": "FL"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "MIAS01",
+                "Name": "MIAMI S BEACH COLLINS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MIAS01",
+                "Telephone": "8888266890",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "25.815017",
+                "Longitude": "-80.1232",
+                "Address": {
+                    "StreetNmbr": "4332 COLLINS AVE SUITE 104",
+                    "CityName": "MIAMI BEACH",
+                    "PostalCode": "33140",
+                    "StateProv_Name": "MIAMI BEACH",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(MIAS71) MIAMI S BEACH COLLINS - 4332 COLLINS AVE, MIAMI BEACH, United States"
+    },
+    {
+        "id": "E13532",
+        "idBrand": 6,
+        "fullCode": "APFC32",
+        "idCountry": 235,
+        "lat": "26.295215",
+        "lon": "-81.801894",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E13532",
+                "Name": "BONITA SPRINGS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "APFC32",
+                "Telephone": "2395912666",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.295215",
+                "Longitude": "-81.801894",
+                "Address": {
+                    "StreetNmbr": "13560 TAMIAMI TRL N",
+                    "CityName": "NAPLES",
+                    "PostalCode": "34110",
+                    "StateProv_Name": "NAPLES",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(E13532) BONITA SPRINGS - 13560 TAMIAMI TRL N, NAPLES, United States"
+    },
+    {
+        "id": "E13544",
+        "idBrand": 6,
+        "fullCode": "FMYN44",
+        "idCountry": 235,
+        "lat": "26.963311",
+        "lon": "-82.073086",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E13544",
+                "Name": "PORT CHARLOTTE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FMYN44",
+                "Telephone": "9412357630",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.963311",
+                "Longitude": "-82.073086",
+                "Address": {
+                    "StreetNmbr": "4509 TAMIAMI TRL",
+                    "CityName": "PT CHARLOTTE",
+                    "PostalCode": "33980",
+                    "StateProv_Name": "PT CHARLOTTE",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(E13544) PORT CHARLOTTE - 4509 TAMIAMI TRL, PT CHARLOTTE, United States"
+    },
+    {
+        "id": "E13558",
+        "idBrand": 6,
+        "fullCode": "PGDC58",
+        "idCountry": 235,
+        "lat": "26.920266",
+        "lon": "-82.047576",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E13558",
+                "Name": "GETTEL PUNTA GORDA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PGDC58",
+                "Telephone": "9414673749",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.920266",
+                "Longitude": "-82.047576",
+                "Address": {
+                    "StreetNmbr": "2021 TAMIAMI TRL",
+                    "CityName": "PUNTA GORDA",
+                    "PostalCode": "33950",
+                    "StateProv_Name": "PUNTA GORDA",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(E13558) GETTEL PUNTA GORDA - 2021 TAMIAMI TRL, PUNTA GORDA, United States"
+    },
+    {
+        "id": "E13578",
+        "idBrand": 6,
+        "fullCode": "FMYS78",
+        "idCountry": 235,
+        "lat": "26.4482",
+        "lon": "-81.8161",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E13578",
+                "Name": "ESTERO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "FMYS78",
+                "Telephone": "2392216304",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "10:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "10:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "26.4482",
+                "Longitude": "-81.8161",
+                "Address": {
+                    "StreetNmbr": "20041 S TAMIAMI TRAIL",
+                    "CityName": "ESTERO",
+                    "PostalCode": "33928",
+                    "StateProv_Name": "ESTERO",
+                    "StateCode": "FL"
+                }
+            }
+        ],
+        "name": "(E13578) ESTERO - 20041 S TAMIAMI TRAIL, ESTERO, United States"
+    },
+    {
+        "id": "E13860",
+        "idBrand": 6,
+        "fullCode": "DAYS30",
+        "idCountry": 235,
+        "lat": "39.63011",
+        "lon": "-84.225643",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E13860",
+                "Name": "DAYTON MALL",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "DAYS30",
+                "Telephone": "9374399001",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "39.63011",
+                "Longitude": "-84.225643",
+                "Address": {
+                    "StreetNmbr": "8270 SPRINGBORO PIKE",
+                    "CityName": "MIAMISBURG",
+                    "PostalCode": "45342",
+                    "StateProv_Name": "MIAMISBURG",
+                    "StateCode": "OH"
+                }
+            }
+        ],
+        "name": "(E13860) DAYTON MALL - 8270 SPRINGBORO PIKE, MIAMISBURG, United States"
+    },
+    {
+        "id": "E13869",
+        "idBrand": 6,
+        "fullCode": "DAYC39",
+        "idCountry": 235,
+        "lat": "39.628071",
+        "lon": "-84.171501",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E13869",
+                "Name": "CENTERVILLE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "DAYC39",
+                "Telephone": "9372916370",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:30"
+                        }
+                    ]
+                },
+                "Latitude": "39.628071",
+                "Longitude": "-84.171501",
+                "Address": {
+                    "StreetNmbr": "455 MIAMISBURG-CENTERVILLE RD",
+                    "CityName": "DAYTON",
+                    "PostalCode": "45459",
+                    "StateProv_Name": "DAYTON",
+                    "StateCode": "OH"
+                }
+            }
+        ],
+        "name": "(E13869) CENTERVILLE - 455 MIAMISBURG-CENTERVILLE RD, DAYTON, United States"
+    },
+    {
+        "id": "E139C3",
+        "idBrand": 6,
+        "fullCode": "TOLS01",
+        "idCountry": 235,
+        "lat": "41.1181",
+        "lon": "-83.1994",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E139C3",
+                "Name": "TIFFIN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "TOLS01",
+                "Telephone": "4194489002",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "41.1181",
+                "Longitude": "-83.1994",
+                "Address": {
+                    "StreetNmbr": "580 MIAMI ST",
+                    "CityName": "TIFFIN",
+                    "PostalCode": "44883",
+                    "StateProv_Name": "TIFFIN",
+                    "StateCode": "OH"
+                }
+            }
+        ],
+        "name": "(E139C3) TIFFIN - 580 MIAMI ST, TIFFIN, United States"
+    }
+]

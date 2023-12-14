@@ -1,0 +1,5177 @@
+[
+    {
+        "id": "NOBO01",
+        "idBrand": 45,
+        "fullCode": "NOBO01",
+        "idCountry": 53,
+        "lat": "9.946128",
+        "lon": "-85.664322",
+        "icon": [
+            "NATIONAL",
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "NOBO01",
+                "Name": "NOSARA AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NOBO01",
+                "Telephone": "26820052",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "9.946128",
+                "Longitude": "-85.664322",
+                "Address": {
+                    "StreetNmbr": "50 MTS N OF CAFE DE PARIS",
+                    "CityName": "NOSARA BEACH",
+                    "PostalCode": "50206",
+                    "StateProv_Name": "NOSARA BEACH",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "NOBO71",
+                "Name": "NOSARA AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NOBO71",
+                "Telephone": "26820052",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "9.946128",
+                "Longitude": "-85.664322",
+                "Address": {
+                    "StreetNmbr": "50 MTS N OF CAFE DE PARIS",
+                    "CityName": "NOSARA BEACH",
+                    "PostalCode": "50206",
+                    "StateProv_Name": "NOSARA BEACH",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(NOBO01) NOSARA AIRPORT - 50 MTS N OF CAFE DE PARIS, NOSARA BEACH, Costa Rica"
+    },
+    {
+        "id": "ORYT04",
+        "idBrand": 5,
+        "fullCode": "ORYT04",
+        "idCountry": 75,
+        "lat": "48.728595",
+        "lon": "2.40117",
+        "icon": [
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "ORYT04",
+                "Name": "PARIS ORLY AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "ORYT04",
+                "Telephone": "0149753638",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.728595",
+                "Longitude": "2.40117",
+                "Address": {
+                    "StreetNmbr": "PARIS ORLY 3",
+                    "CityName": "ORLY",
+                    "PostalCode": "94947",
+                    "StateProv_Name": "ORLY",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(ORYT04) PARIS ORLY AIRPORT - PARIS ORLY 3, ORLY, France"
+    },
+    {
+        "id": "CDGT03",
+        "idBrand": 45,
+        "fullCode": "CDGT03",
+        "idCountry": 75,
+        "lat": "49.00947",
+        "lon": "2.54885",
+        "icon": [
+            "NATIONAL",
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "CDGT03",
+                "Name": "PARIS ROISSY CDG AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "CDGT03",
+                "Telephone": "0148626581",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.00947",
+                "Longitude": "2.54885",
+                "Address": {
+                    "StreetNmbr": "PARIS CH DE GAULLE  APT T1 T2",
+                    "CityName": "ROISSY",
+                    "PostalCode": "95716",
+                    "StateProv_Name": "ROISSY",
+                    "StateCode": "J"
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "CDGT73",
+                "Name": "PARIS ROISSY CDG AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "CDGT73",
+                "Telephone": "0148626581",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.00947",
+                "Longitude": "2.54885",
+                "Address": {
+                    "StreetNmbr": "PARIS CH DE GAULLE APT T1 T2",
+                    "CityName": "ROISSY",
+                    "PostalCode": "95716",
+                    "StateProv_Name": "ROISSY",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(CDGT03) PARIS ROISSY CDG AIRPORT - PARIS CH DE GAULLE  APT T1 T2, ROISSY, France"
+    },
+    {
+        "id": "ORYT74",
+        "idBrand": 4,
+        "fullCode": "ORYT74",
+        "idCountry": 75,
+        "lat": "48.74293",
+        "lon": "2.40117",
+        "icon": [
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "ORYT74",
+                "Name": "PARIS ORLY AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "ORYT74",
+                "Telephone": "0149753638",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.74293",
+                "Longitude": "2.40117",
+                "Address": {
+                    "StreetNmbr": "PARIS ORLY 3",
+                    "CityName": "ORLY",
+                    "PostalCode": "94947",
+                    "StateProv_Name": "ORLY",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(ORYT74) PARIS ORLY AIRPORT - PARIS ORLY 3, ORLY, France"
+    },
+    {
+        "id": "C9D",
+        "idBrand": 12,
+        "fullCode": "PARC42",
+        "idCountry": 75,
+        "lat": "49.004322",
+        "lon": "2.576809",
+        "icon": [
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "C9D",
+                "Name": "Bd Roissy Aeroport Terminal 1",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC42",
+                "Telephone": "0821 230 641",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "06:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.004322",
+                "Longitude": "2.576809",
+                "Address": {
+                    "StreetNmbr": "Paris Roissy Cdg Terminal 1",
+                    "CityName": "Roissy En France",
+                    "PostalCode": "95711",
+                    "StateProv_Name": "Roissy En France",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "CDG",
+                "Name": "Roissy Aeroport Terminal Ef",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "CDGT01",
+                "Telephone": "0820611631",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "06:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.0033",
+                "Longitude": "2.57707",
+                "Address": {
+                    "StreetNmbr": "Paris Roissy Cdg Terminal2 E/F",
+                    "CityName": "Roissy En France",
+                    "PostalCode": "95711",
+                    "StateProv_Name": "Roissy En France",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(CDG) Roissy Aeroport Terminal Ef - Paris Roissy Cdg Terminal2 E/F, Roissy En France, France"
+    },
+    {
+        "id": "C2D",
+        "idBrand": 12,
+        "fullCode": "PARC41",
+        "idCountry": 75,
+        "lat": "49.01437",
+        "lon": "2.54179",
+        "icon": [
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "C2D",
+                "Name": "Bd Roissy Aeroport Terminal Cd",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC41",
+                "Telephone": "0821 230 641",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "06:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.01437",
+                "Longitude": "2.54179",
+                "Address": {
+                    "StreetNmbr": "Paris Roissy Cdg Terminal2 C/D",
+                    "CityName": "Roissy En France",
+                    "PostalCode": "95711",
+                    "StateProv_Name": "Roissy En France",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "X2C",
+                "Name": "Roissy Aeroport Terminal 1",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC41",
+                "Telephone": "0820611620",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "06:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.01327",
+                "Longitude": "2.541954",
+                "Address": {
+                    "StreetNmbr": "Paris Roissy Cdg Term 1",
+                    "CityName": "Roissy En France",
+                    "PostalCode": "95711",
+                    "StateProv_Name": "Roissy En France",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(X2C) Roissy Aeroport Terminal 1 - Paris Roissy Cdg Term 1, Roissy En France, France"
+    },
+    {
+        "id": "CDG",
+        "idBrand": 12,
+        "fullCode": "CDGT01",
+        "idCountry": 75,
+        "lat": "49.0037",
+        "lon": "2.567196",
+        "icon": [
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "CDG",
+                "Name": "Bd Roissy Aeroport Terminal Ef",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "CDGT01",
+                "Telephone": "0821 230 641",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "06:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.0037",
+                "Longitude": "2.567196",
+                "Address": {
+                    "StreetNmbr": "Paris Roissy Cdg Terminal2 E/F",
+                    "CityName": "Roissy En France",
+                    "PostalCode": "95711",
+                    "StateProv_Name": "Roissy En France",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "X3C",
+                "Name": "Roissy Aeroport Terminal Cd",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC42",
+                "Telephone": "0820611620",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "06:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.003517",
+                "Longitude": "2.567438",
+                "Address": {
+                    "StreetNmbr": "Paris Roissy Cdg T 2 C/D",
+                    "CityName": "Roissy En France",
+                    "PostalCode": "95711",
+                    "StateProv_Name": "Roissy En France",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(X3C) Roissy Aeroport Terminal Cd - Paris Roissy Cdg T 2 C/D, Roissy En France, France"
+    },
+    {
+        "id": "AE4",
+        "idBrand": 1245,
+        "fullCode": "PARX05",
+        "idCountry": 75,
+        "lat": "48.880943",
+        "lon": "2.355334",
+        "icon": [
+            "AVIS",
+            "BUDGET",
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "AE4",
+                "Name": "Paris Gare Du Nord 10 Eme",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX05",
+                "Telephone": "0820611624",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.880943",
+                "Longitude": "2.355334",
+                "Address": {
+                    "StreetNmbr": "Gare Du Nord",
+                    "CityName": "Paris",
+                    "PostalCode": "75010",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "I66",
+                "Name": "Bd Paris Gare Du Nord 10 E",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX02",
+                "Telephone": "0821230637",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.880943",
+                "Longitude": "2.355334",
+                "Address": {
+                    "StreetNmbr": "Gare Du Nord",
+                    "CityName": "Paris",
+                    "PostalCode": "75010",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "PARX57",
+                "Name": "GARE DU NORD 4301",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX57",
+                "Telephone": "0153200652",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.88039",
+                "Longitude": "2.35734",
+                "Address": {
+                    "StreetNmbr": "PARIS GARE DU NORD SNCF VOIE 3",
+                    "CityName": "PARIS",
+                    "PostalCode": "75010",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "J"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "PARX17",
+                "Name": "GARE DU NORD",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX17",
+                "Telephone": "0153200652",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.881121",
+                "Longitude": "2.35734",
+                "Address": {
+                    "StreetNmbr": "PARIS GARE DU NORD SNCF VOIE 3",
+                    "CityName": "PARIS",
+                    "PostalCode": "75010",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(AE4) Paris Gare Du Nord 10 Eme - Gare Du Nord, Paris, France"
+    },
+    {
+        "id": "AE2",
+        "idBrand": 1245,
+        "fullCode": "PARX08",
+        "idCountry": 75,
+        "lat": "48.83874",
+        "lon": "2.317742",
+        "icon": [
+            "AVIS",
+            "BUDGET",
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "AE2",
+                "Name": "Paris Gare Montparnasse 14eme",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX08",
+                "Telephone": "0820006100",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.83874",
+                "Longitude": "2.317742",
+                "Address": {
+                    "StreetNmbr": "Hall 2 Pasteur",
+                    "CityName": "Paris",
+                    "PostalCode": "75014",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "P9A",
+                "Name": "Bd Paris Gare Montparnasse",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX01",
+                "Telephone": "0821230419",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.83873",
+                "Longitude": "2.317582",
+                "Address": {
+                    "StreetNmbr": "Hall 2 Pasteur",
+                    "CityName": "Paris",
+                    "PostalCode": "75014",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "PARX58",
+                "Name": "GARE MONTPARNASSE 1462",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX58",
+                "Telephone": "0142790611",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "12:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "12:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.840754",
+                "Longitude": "2.31947",
+                "Address": {
+                    "StreetNmbr": "PARIS GARE MONTPARNASSE - RRS",
+                    "CityName": "PARIS",
+                    "PostalCode": "75014",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "J"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "PARX18",
+                "Name": "GARE MONTPARNASSE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX18",
+                "Telephone": "0142790611",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "12:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "12:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.839772",
+                "Longitude": "2.31947",
+                "Address": {
+                    "StreetNmbr": "PARIS GARE MONTPARNASSE - RRS",
+                    "CityName": "PARIS",
+                    "PostalCode": "75014",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(AE2) Paris Gare Montparnasse 14eme - Hall 2 Pasteur, Paris, France"
+    },
+    {
+        "id": "AC6",
+        "idBrand": 1245,
+        "fullCode": "PARX07",
+        "idCountry": 75,
+        "lat": "48.844658",
+        "lon": "2.373427",
+        "icon": [
+            "AVIS",
+            "BUDGET",
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "AC6",
+                "Name": "Paris Gare De Lyon 12eme",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX07",
+                "Telephone": "0820611627",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.844658",
+                "Longitude": "2.373427",
+                "Address": {
+                    "StreetNmbr": "H 3 Gare De Ly Pl Henri Frenay",
+                    "CityName": "Paris",
+                    "PostalCode": "75012",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "R63",
+                "Name": "Bd Paris Gare De Lyon 12e",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX18",
+                "Telephone": "0821230636",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "21:30"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "21:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.844658",
+                "Longitude": "2.373427",
+                "Address": {
+                    "StreetNmbr": "H 3 Gare De Ly Pl Henri Frenay",
+                    "CityName": "Paris",
+                    "PostalCode": "75012",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "PARX76",
+                "Name": "GARE DE LYON 3975",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX76",
+                "Telephone": "0140049004",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.843848",
+                "Longitude": "2.372572",
+                "Address": {
+                    "StreetNmbr": "PARIS GARE DE LYON SNCF RRS",
+                    "CityName": "PARIS",
+                    "PostalCode": "75012",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "J"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "PARX16",
+                "Name": "GARE DE LYON",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX16",
+                "Telephone": "0140049004",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.843848",
+                "Longitude": "2.372572",
+                "Address": {
+                    "StreetNmbr": "PAIS GARE DE LYON - SNCF RRS",
+                    "CityName": "PARIS",
+                    "PostalCode": "75012",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(AC6) Paris Gare De Lyon 12eme - H 3 Gare De Ly Pl Henri Frenay, Paris, France"
+    },
+    {
+        "id": "IL5",
+        "idBrand": 1,
+        "fullCode": "PARC33",
+        "idCountry": 75,
+        "lat": "48.829617",
+        "lon": "2.2838523",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "IL5",
+                "Name": "Paris Issy L Moulineaux Ville",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC33",
+                "Telephone": "0146486843",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "12:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.829617",
+                "Longitude": "2.2838523",
+                "Address": {
+                    "StreetNmbr": "7bis Rue Ernest Renan",
+                    "CityName": "Issy Moulineaux",
+                    "PostalCode": "92130",
+                    "StateProv_Name": "Issy Moulineaux",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(IL5) Paris Issy L Moulineaux Ville - 7bis Rue Ernest Renan, Issy Moulineaux, France"
+    },
+    {
+        "id": "NO3",
+        "idBrand": 1,
+        "fullCode": "QTJC04",
+        "idCountry": 75,
+        "lat": "48.328117",
+        "lon": "0.8271545",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "NO3",
+                "Name": "Nogent Le Rotrou Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "QTJC04",
+                "Telephone": "0237520355",
+                "Schedule": {
+                    "monday": {
+                        "start": "13:45",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "13:45",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "13:45",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "13:45",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "13:45",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:45",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:45",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:45",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:45",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:45",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.328117",
+                "Longitude": "0.8271545",
+                "Address": {
+                    "StreetNmbr": "42 Avenue De Paris",
+                    "CityName": "Nogent Le Rotrou",
+                    "PostalCode": "28400",
+                    "StateProv_Name": "Nogent Le Rotrou",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(NO3) Nogent Le Rotrou Dt - 42 Avenue De Paris, Nogent Le Rotrou, France"
+    },
+    {
+        "id": "PS6",
+        "idBrand": 1,
+        "fullCode": "PARC16",
+        "idCountry": 75,
+        "lat": "48.882244",
+        "lon": "2.31211",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "PS6",
+                "Name": "Paris 17eme  Villiers Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC16",
+                "Telephone": "0147665580",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.882244",
+                "Longitude": "2.31211",
+                "Address": {
+                    "StreetNmbr": "34 Ave De Villiers 17th",
+                    "CityName": "Paris",
+                    "PostalCode": "75017",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(PS6) Paris 17eme  Villiers Dt - 34 Ave De Villiers 17th, Paris, France"
+    },
+    {
+        "id": "EC2",
+        "idBrand": 1,
+        "fullCode": "PARC18",
+        "idCountry": 75,
+        "lat": "48.848476",
+        "lon": "2.411626",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "EC2",
+                "Name": "Paris 20eme",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC18",
+                "Telephone": "0140241020",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "08:30",
+                        "end": "12:00"
+                    },
+                    "wednesday": {
+                        "start": "08:30",
+                        "end": "12:00"
+                    },
+                    "thursday": {
+                        "start": "08:30",
+                        "end": "12:00"
+                    },
+                    "friday": {
+                        "start": "08:30",
+                        "end": "12:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        },
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        },
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        },
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        },
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.848476",
+                "Longitude": "2.411626",
+                "Address": {
+                    "StreetNmbr": "8 Bld Davout 20th",
+                    "CityName": "Paris",
+                    "PostalCode": "75020",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(EC2) Paris 20eme - 8 Bld Davout 20th, Paris, France"
+    },
+    {
+        "id": "JF4",
+        "idBrand": 1,
+        "fullCode": "PARC14",
+        "idCountry": 75,
+        "lat": "48.827198",
+        "lon": "2.367524",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "JF4",
+                "Name": "Paris 13e Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC14",
+                "Telephone": "0145832193",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "16:30",
+                        "end": "18:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "16:30",
+                            "end": "18:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.827198",
+                "Longitude": "2.367524",
+                "Address": {
+                    "StreetNmbr": "83 Rue De Tolbiac",
+                    "CityName": "Paris",
+                    "PostalCode": "75013",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(JF4) Paris 13e Dt - 83 Rue De Tolbiac, Paris, France"
+    },
+    {
+        "id": "LM3",
+        "idBrand": 1,
+        "fullCode": "PARC15",
+        "idCountry": 75,
+        "lat": "48.84314",
+        "lon": "2.286363",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "LM3",
+                "Name": "Paris Lourmel 15eme Chauffeur",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC15",
+                "Telephone": "0145575357",
+                "Schedule": {
+                    "monday": {
+                        "start": "13:00",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "13:00",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "13:00",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "13:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "13:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:30"
+                        }
+                    ]
+                },
+                "Latitude": "48.84314",
+                "Longitude": "2.286363",
+                "Address": {
+                    "StreetNmbr": "105 Rue De Lourmel 15th",
+                    "CityName": "Paris",
+                    "PostalCode": "75015",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(LM3) Paris Lourmel 15eme Chauffeur - 105 Rue De Lourmel 15th, Paris, France"
+    },
+    {
+        "id": "BSS",
+        "idBrand": 1,
+        "fullCode": "XBTC01",
+        "idCountry": 75,
+        "lat": "48.83499",
+        "lon": "2.2551365",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "BSS",
+                "Name": "Paris Boulogne Sur Seine",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "XBTC01",
+                "Telephone": "0820611618",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "19:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.83499",
+                "Longitude": "2.2551365",
+                "Address": {
+                    "StreetNmbr": "78 Avenue Pierre Grenier",
+                    "CityName": "Boulogne Billan",
+                    "PostalCode": "92100",
+                    "StateProv_Name": "Boulogne Billan",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(BSS) Paris Boulogne Sur Seine - 78 Avenue Pierre Grenier, Boulogne Billan, France"
+    },
+    {
+        "id": "PON",
+        "idBrand": 1,
+        "fullCode": "PARN30",
+        "idCountry": 75,
+        "lat": "49.039604",
+        "lon": "2.116496",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "PON",
+                "Name": "Pontoise Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARN30",
+                "Telephone": "01 30 37 37 37",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "10:30"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "10:30"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "10:30"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "10:30"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "10:30"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "10:30"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ]
+                },
+                "Latitude": "49.039604",
+                "Longitude": "2.116496",
+                "Address": {
+                    "StreetNmbr": "67 Rue De Paris",
+                    "CityName": "St Ouen L Aumone",
+                    "PostalCode": "95310",
+                    "StateProv_Name": "St Ouen L Aumone",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(PON) Pontoise Dt - 67 Rue De Paris, St Ouen L Aumone, France"
+    },
+    {
+        "id": "FQ1",
+        "idBrand": 1,
+        "fullCode": "PARX21",
+        "idCountry": 75,
+        "lat": "49.004322",
+        "lon": "2.576981",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "FQ1",
+                "Name": "Paris Apt Roissy Gare Sncf",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARX21",
+                "Telephone": "0820611620",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "06:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "49.004322",
+                "Longitude": "2.576981",
+                "Address": {
+                    "StreetNmbr": "Gare Sncf Tgv  Roissy Cdg",
+                    "CityName": "Roissy En France",
+                    "PostalCode": "95711",
+                    "StateProv_Name": "Roissy En France",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(FQ1) Paris Apt Roissy Gare Sncf - Gare Sncf Tgv  Roissy Cdg, Roissy En France, France"
+    },
+    {
+        "id": "PV2",
+        "idBrand": 1,
+        "fullCode": "PARC13",
+        "idCountry": 75,
+        "lat": "48.850937",
+        "lon": "2.392007",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "PV2",
+                "Name": "Paris 11eme Voltaire Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC13",
+                "Telephone": "0143482926",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.850937",
+                "Longitude": "2.392007",
+                "Address": {
+                    "StreetNmbr": "241 Bld Voltaire 11th",
+                    "CityName": "Paris",
+                    "PostalCode": "75011",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(PV2) Paris 11eme Voltaire Dt - 241 Bld Voltaire 11th, Paris, France"
+    },
+    {
+        "id": "C1L",
+        "idBrand": 1,
+        "fullCode": "PARN61",
+        "idCountry": 75,
+        "lat": "48.90227",
+        "lon": "2.318519",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "C1L",
+                "Name": "Paris Clichy",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARN61",
+                "Telephone": "0141279130",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.90227",
+                "Longitude": "2.318519",
+                "Address": {
+                    "StreetNmbr": "Metro 14 Rer C Saint Ouen",
+                    "CityName": "Clichy",
+                    "PostalCode": "92110",
+                    "StateProv_Name": "Clichy",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(C1L) Paris Clichy - Metro 14 Rer C Saint Ouen, Clichy, France"
+    },
+    {
+        "id": "R2R",
+        "idBrand": 12,
+        "fullCode": "KLTC02",
+        "idCountry": 82,
+        "lat": "49.43873",
+        "lon": "7.712662",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "R2R",
+                "Name": "Kaiserslautern",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "KLTC02",
+                "Telephone": "631350290",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "49.43873",
+                "Longitude": "7.712662",
+                "Address": {
+                    "StreetNmbr": "Pariser Strasse 348",
+                    "CityName": "Kaiserslautern",
+                    "PostalCode": "67663",
+                    "StateProv_Name": "Kaiserslautern",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "PI5",
+                "Name": "Bd Kaiserslautern",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "KLTC02",
+                "Telephone": "631350290",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "49.438896",
+                "Longitude": "7.71267",
+                "Address": {
+                    "StreetNmbr": "Pariser Strasse 348",
+                    "CityName": "Kaiserslautern",
+                    "PostalCode": "67663",
+                    "StateProv_Name": "Kaiserslautern",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(R2R) Kaiserslautern - Pariser Strasse 348, Kaiserslautern, Germany"
+    },
+    {
+        "id": "PAR",
+        "idBrand": 12,
+        "fullCode": "PARW54",
+        "idCountry": 75,
+        "lat": "48.87117",
+        "lon": "2.324082",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "PAR",
+                "Name": "Paris La Madeleine Fr",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARW54",
+                "Telephone": "0183180058",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.87117",
+                "Longitude": "2.324082",
+                "Address": {
+                    "StreetNmbr": "21 Place De La Madeleine",
+                    "CityName": "Paris",
+                    "PostalCode": "75008",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "KQ1",
+                "Name": "Bd Paris 8 Eme Madeleine Dt Fr",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC08",
+                "Telephone": "0183180058",
+                "Schedule": {
+                    "monday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "09:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.87117",
+                "Longitude": "2.324146",
+                "Address": {
+                    "StreetNmbr": "21 Place De La Madeleine",
+                    "CityName": "Paris",
+                    "PostalCode": "75008",
+                    "StateProv_Name": "Paris",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(PAR) Paris La Madeleine Fr - 21 Place De La Madeleine, Paris, France"
+    },
+    {
+        "id": "P1M",
+        "idBrand": 2,
+        "fullCode": "PARC19",
+        "idCountry": 75,
+        "lat": "48.880856",
+        "lon": "2.2716472",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "P1M",
+                "Name": "Bd Paris Neuilly S Livr Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARC19",
+                "Telephone": "0821230639",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "16:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "16:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.880856",
+                "Longitude": "2.2716472",
+                "Address": {
+                    "StreetNmbr": "99 Ave Charles De Gaulle",
+                    "CityName": "Neuilly S/Seine",
+                    "PostalCode": "92200",
+                    "StateProv_Name": "Neuilly S/Seine",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(P1M) Bd Paris Neuilly S Livr Dt - 99 Ave Charles De Gaulle, Neuilly S/Seine, France"
+    },
+    {
+        "id": "NOBR71",
+        "idBrand": 45,
+        "fullCode": "NOBR71",
+        "idCountry": 53,
+        "lat": "9.946128",
+        "lon": "-85.664322",
+        "icon": [
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "NOBR71",
+                "Name": "NOSARA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NOBR71",
+                "Telephone": "26820052",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "9.946128",
+                "Longitude": "-85.664322",
+                "Address": {
+                    "StreetNmbr": "50 MTS N OF CAFE DE PARIS",
+                    "CityName": "NOSARA BEACH",
+                    "PostalCode": "50206",
+                    "StateProv_Name": "NOSARA BEACH",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "NOBR01",
+                "Name": "NOSARA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NOBR01",
+                "Telephone": "26820052",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "9.946128",
+                "Longitude": "-85.664322",
+                "Address": {
+                    "StreetNmbr": "50 MTS N OF CAFE DE PARIS",
+                    "CityName": "NOSARA BEACH",
+                    "PostalCode": "50206",
+                    "StateProv_Name": "NOSARA BEACH",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(NOBR71) NOSARA - 50 MTS N OF CAFE DE PARIS, NOSARA BEACH, Costa Rica"
+    },
+    {
+        "id": "E1510D",
+        "idBrand": 6,
+        "fullCode": "PRXC01",
+        "idCountry": 235,
+        "lat": "33.6732",
+        "lon": "-95.5166",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E1510D",
+                "Name": "PARIS TX",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PRXC01",
+                "Telephone": "9037859757",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "33.6732",
+                "Longitude": "-95.5166",
+                "Address": {
+                    "StreetNmbr": "3225 NE LOOP 286",
+                    "CityName": "PARIS",
+                    "PostalCode": "75460",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "TX"
+                }
+            }
+        ],
+        "name": "(E1510D) PARIS TX - 3225 NE LOOP 286, PARIS, United States"
+    },
+    {
+        "id": "E15446",
+        "idBrand": 6,
+        "fullCode": "LASC46",
+        "idCountry": 235,
+        "lat": "36.1122",
+        "lon": "-115.1715",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E15446",
+                "Name": "PARIS HOTEL",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LASC46",
+                "Telephone": "7252409204",
+                "Schedule": {
+                    "monday": {
+                        "start": "13:30",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "13:30",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "13:30",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "13:30",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "13:30",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "13:30",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "13:30",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "36.1122",
+                "Longitude": "-115.1715",
+                "Address": {
+                    "StreetNmbr": "3655 S LAS VEGAS BLVD",
+                    "CityName": "LAS VEGAS",
+                    "PostalCode": "89109",
+                    "StateProv_Name": "LAS VEGAS",
+                    "StateCode": "NV"
+                }
+            }
+        ],
+        "name": "(E15446) PARIS HOTEL - 3655 S LAS VEGAS BLVD, LAS VEGAS, United States"
+    },
+    {
+        "id": "E15666",
+        "idBrand": 6,
+        "fullCode": "MKLN66",
+        "idCountry": 235,
+        "lat": "36.2903",
+        "lon": "-88.315",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E15666",
+                "Name": "PARIS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MKLN66",
+                "Telephone": "7316441000",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "36.2903",
+                "Longitude": "-88.315",
+                "Address": {
+                    "StreetNmbr": "1008 MINERAL WELLS AVE",
+                    "CityName": "PARIS",
+                    "PostalCode": "38242",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "TN"
+                }
+            }
+        ],
+        "name": "(E15666) PARIS - 1008 MINERAL WELLS AVE, PARIS, United States"
+    },
+    {
+        "id": "E15870",
+        "idBrand": 6,
+        "fullCode": "LEXN70",
+        "idCountry": 235,
+        "lat": "38.188269",
+        "lon": "-84.28498",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E15870",
+                "Name": "PARIS KY",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LEXN70",
+                "Telephone": "8599871554",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "38.188269",
+                "Longitude": "-84.28498",
+                "Address": {
+                    "StreetNmbr": "4139 LEXINGTON RD",
+                    "CityName": "PARIS",
+                    "PostalCode": "40361",
+                    "StateProv_Name": "PARIS",
+                    "StateCode": "KY"
+                }
+            }
+        ],
+        "name": "(E15870) PARIS KY - 4139 LEXINGTON RD, PARIS, United States"
+    },
+    {
+        "id": "MADC68",
+        "idBrand": 6,
+        "fullCode": "MADC68",
+        "idCountry": 208,
+        "lat": "40.5017",
+        "lon": "-3.8911",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADC68",
+                "Name": "MADRID LAS ROZAS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADC68",
+                "Telephone": "916376332",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.5017",
+                "Longitude": "-3.8911",
+                "Address": {
+                    "StreetNmbr": "CALLE PARIS, NAVE 10",
+                    "CityName": "ROZAS DE MADRID, LAS",
+                    "PostalCode": "28232",
+                    "StateProv_Name": "ROZAS DE MADRID, LAS",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADC68) MADRID LAS ROZAS - CALLE PARIS, NAVE 10, ROZAS DE MADRID, LAS, Spain"
+    },
+    {
+        "id": "PARN62",
+        "idBrand": 6,
+        "fullCode": "PARN62",
+        "idCountry": 75,
+        "lat": "48.898638",
+        "lon": "2.291151",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "PARN62",
+                "Name": "LEVALLOIS PERRET",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARN62",
+                "Telephone": "0142700229",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.898638",
+                "Longitude": "2.291151",
+                "Address": {
+                    "StreetNmbr": "PARIS LEVALLOIS - NEUILLY",
+                    "CityName": "LEVALLOIS-PERRET",
+                    "PostalCode": "92300",
+                    "StateProv_Name": "LEVALLOIS-PERRET",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(PARN62) LEVALLOIS PERRET - PARIS LEVALLOIS - NEUILLY, LEVALLOIS-PERRET, France"
+    },
+    {
+        "id": "PARW65",
+        "idBrand": 6,
+        "fullCode": "PARW65",
+        "idCountry": 75,
+        "lat": "48.8389",
+        "lon": "2.2537",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "PARW65",
+                "Name": "BOULOGNE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARW65",
+                "Telephone": "0170950093",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.8389",
+                "Longitude": "2.2537",
+                "Address": {
+                    "StreetNmbr": "2 AVENUE DE LA PORTE",
+                    "CityName": "PARIS XVI",
+                    "PostalCode": "75016",
+                    "StateProv_Name": "PARIS XVI",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(PARW65) BOULOGNE - 2 AVENUE DE LA PORTE, PARIS XVI, France"
+    },
+    {
+        "id": "PARN65",
+        "idBrand": 6,
+        "fullCode": "PARN65",
+        "idCountry": 75,
+        "lat": "48.8973",
+        "lon": "2.3884",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "PARN65",
+                "Name": "PARIS 19 PORTE DE LA VIL",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "PARN65",
+                "Telephone": "0170371897",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "48.8973",
+                "Longitude": "2.3884",
+                "Address": {
+                    "StreetNmbr": "61 BOULEVARD MACDONALD",
+                    "CityName": "PARIS XIX",
+                    "PostalCode": "75019",
+                    "StateProv_Name": "PARIS XIX",
+                    "StateCode": "J"
+                }
+            }
+        ],
+        "name": "(PARN65) PARIS 19 PORTE DE LA VIL - 61 BOULEVARD MACDONALD, PARIS XIX, France"
+    }
+]

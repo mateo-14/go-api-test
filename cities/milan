@@ -1,0 +1,4693 @@
+[
+    {
+        "id": "MILC65",
+        "idBrand": 12456,
+        "fullCode": "MILC65",
+        "idCountry": 109,
+        "lat": "45.646818",
+        "lon": "8.723358",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO",
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "MILC65",
+                "Name": "MILAN MALPENSA ARPT T2",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC65",
+                "Telephone": "0258583832",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.646818",
+                "Longitude": "8.723358",
+                "Address": {
+                    "StreetNmbr": "APT MALPENSA 2000 TERMINAL 2",
+                    "CityName": "SOMMA LOMBARDO",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "SOMMA LOMBARDO",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "MILC08",
+                "Name": "MILAN MALPENSA ARPT T2",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC08",
+                "Telephone": "0258583832",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.646818",
+                "Longitude": "8.723358",
+                "Address": {
+                    "StreetNmbr": "APT MALPENSA 2000 TERMINAL 2",
+                    "CityName": "SOMMA LOMBARDO",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "SOMMA LOMBARDO",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "MILC78",
+                "Name": "MILAN MALPENSA ARPT T2",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC78",
+                "Telephone": "0258583832",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.646818",
+                "Longitude": "8.723358",
+                "Address": {
+                    "StreetNmbr": "APT MALPENSA 2000 TERMINAL 2",
+                    "CityName": "SOMMA LOMBARDO",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "SOMMA LOMBARDO",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "MX4",
+                "Name": "Bd Milano Malpensa Apt T2",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC03",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.6484",
+                "Longitude": "8.722064",
+                "Address": {
+                    "StreetNmbr": "Aeroporto Malpensa Terminal 2",
+                    "CityName": "Malpensa Ferno",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "Malpensa Ferno",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "RD1",
+                "Name": "Milano Malpensa Apt T2",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC01",
+                "Telephone": "0258583803",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.64863",
+                "Longitude": "8.721951",
+                "Address": {
+                    "StreetNmbr": "Aeroporto Malpensa Terminal 2",
+                    "CityName": "Malpensa Ferno",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "Malpensa Ferno",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(RD1) Milano Malpensa Apt T2 - Aeroporto Malpensa Terminal 2, Malpensa Ferno, Italy"
+    },
+    {
+        "id": "LINT61",
+        "idBrand": 12456,
+        "fullCode": "LINT61",
+        "idCountry": 109,
+        "lat": "45.46234",
+        "lon": "9.27909",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO",
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "LINT61",
+                "Name": "MILAN LINATE AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LINT61",
+                "Telephone": "00390270200238",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.46234",
+                "Longitude": "9.27909",
+                "Address": {
+                    "StreetNmbr": "AEROPORTO FORLANINI",
+                    "CityName": "MILAN",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "MILAN",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "LINT02",
+                "Name": "MILAN LINATE AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LINT02",
+                "Telephone": "00390270200238",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.46234",
+                "Longitude": "9.27909",
+                "Address": {
+                    "StreetNmbr": "AEROPORTO FORLANINI",
+                    "CityName": "MILAN",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "MILAN",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "LINT72",
+                "Name": "MILAN LINATE AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LINT72",
+                "Telephone": "00390270200238",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.46234",
+                "Longitude": "9.27909",
+                "Address": {
+                    "StreetNmbr": "AEROPORTO FORLANINI",
+                    "CityName": "MILAN",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "MILAN",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "LIN",
+                "Name": "Bd Milano Linate Apt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LINT02",
+                "Telephone": "3902715123",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.46189",
+                "Longitude": "9.279515",
+                "Address": {
+                    "StreetNmbr": "Milano Linate Aeroporto",
+                    "CityName": "Milano",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "LIN",
+                "Name": "Milano Linate Apt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LINT01",
+                "Telephone": "02715123",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.461746",
+                "Longitude": "9.279697",
+                "Address": {
+                    "StreetNmbr": "Aeroporto Milano Linate",
+                    "CityName": "Milano",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(LIN) Milano Linate Apt - Aeroporto Milano Linate, Milano, Italy"
+    },
+    {
+        "id": "BGYT61",
+        "idBrand": 456,
+        "fullCode": "BGYT61",
+        "idCountry": 109,
+        "lat": "45.665959",
+        "lon": "9.698035",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "BGYT61",
+                "Name": "MILAN BERGAMO AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BGYT61",
+                "Telephone": "0354596283",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.665959",
+                "Longitude": "9.698035",
+                "Address": {
+                    "StreetNmbr": "VIA AEROPORTO 13",
+                    "CityName": "BERGAMO",
+                    "PostalCode": "24050",
+                    "StateProv_Name": "BERGAMO",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "BGYT02",
+                "Name": "MILAN BERGAMO AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BGYT02",
+                "Telephone": "0354596283",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.665959",
+                "Longitude": "9.698035",
+                "Address": {
+                    "StreetNmbr": "VIA AEROPORTO 13 ORIO AL SERIO",
+                    "CityName": "BERGAMO",
+                    "PostalCode": "24050",
+                    "StateProv_Name": "BERGAMO",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "BGYT72",
+                "Name": "MILAN BERGAMO AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BGYT72",
+                "Telephone": "0354596283",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.665959",
+                "Longitude": "9.698305",
+                "Address": {
+                    "StreetNmbr": "VIA AEROPORTO 13 ORIO AL SERIO",
+                    "CityName": "BERGAMO",
+                    "PostalCode": "24050",
+                    "StateProv_Name": "BERGAMO",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BGYT61) MILAN BERGAMO AIRPORT - VIA AEROPORTO 13, BERGAMO, Italy"
+    },
+    {
+        "id": "MXPT61",
+        "idBrand": 12456,
+        "fullCode": "MXPT61",
+        "idCountry": 109,
+        "lat": "45.6274",
+        "lon": "8.71237",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO",
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "MXPT61",
+                "Name": "MILAN MALPENSA ARPT T1",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MXPT61",
+                "Telephone": "0258580333",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.6274",
+                "Longitude": "8.71237",
+                "Address": {
+                    "StreetNmbr": "APT MALPENSA 2000 TERMINAL 1",
+                    "CityName": "FERNO-VARESE",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "FERNO-VARESE",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "MXPT02",
+                "Name": "MILAN MALPENSA ARPT T1",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MXPT02",
+                "Telephone": "00390258580333",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.6274",
+                "Longitude": "8.71237",
+                "Address": {
+                    "StreetNmbr": "APT MALPENSA 2000  TERMINAL 1",
+                    "CityName": "FERNO-VARESE",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "FERNO-VARESE",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "MXPT72",
+                "Name": "MILAN MALPENSA ARPT T1",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MXPT72",
+                "Telephone": "00390258580333",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.6274",
+                "Longitude": "8.71237",
+                "Address": {
+                    "StreetNmbr": "APT MALPENSA 2000 TERMINAL 1",
+                    "CityName": "FERNO-VARESE",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "FERNO-VARESE",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "MXP",
+                "Name": "Bd Milano Malpensa Apt T1",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MXPT01",
+                "Telephone": "39025858481",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.627357",
+                "Longitude": "8.712963",
+                "Address": {
+                    "StreetNmbr": "Milano Malpensa Apt Terminal 1",
+                    "CityName": "Malpensa Ferno",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "Malpensa Ferno",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "MXP",
+                "Name": "Milano Malpensa Apt T1",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MXPT01",
+                "Telephone": "025858481",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "07:30",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:30",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "45.627357",
+                "Longitude": "8.712963",
+                "Address": {
+                    "StreetNmbr": "Milano Malpensa Apt Terminal 1",
+                    "CityName": "Malpensa Ferno",
+                    "PostalCode": "21010",
+                    "StateProv_Name": "Malpensa Ferno",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MXP) Milano Malpensa Apt T1 - Milano Malpensa Apt Terminal 1, Malpensa Ferno, Italy"
+    },
+    {
+        "id": "BE3",
+        "idBrand": 1,
+        "fullCode": "BEGC02",
+        "idCountry": 196,
+        "lat": "44.81983",
+        "lon": "20.39741",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "BE3",
+                "Name": "Belgrade Downtown 2",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BEGC02",
+                "Telephone": "00381 113676644",
+                "Schedule": {
+                    "monday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "09:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "44.81983",
+                "Longitude": "20.39741",
+                "Address": {
+                    "StreetNmbr": "Milutina Milankovica 27",
+                    "CityName": "Belgrade",
+                    "PostalCode": "11070",
+                    "StateProv_Name": "Belgrade",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(BE3) Belgrade Downtown 2 - Milutina Milankovica 27, Belgrade, Serbia"
+    },
+    {
+        "id": "ML5",
+        "idBrand": 12,
+        "fullCode": "MILC04",
+        "idCountry": 109,
+        "lat": "45.46199",
+        "lon": "9.18969",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "ML5",
+                "Name": "Milano Pza Diaz",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC04",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.46199",
+                "Longitude": "9.18969",
+                "Address": {
+                    "StreetNmbr": "Piazza Diaz 6",
+                    "CityName": "Milano",
+                    "PostalCode": "20123",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M9X",
+                "Name": "Bd Milano Pza Diaz",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILN18",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.46233",
+                "Longitude": "9.189399",
+                "Address": {
+                    "StreetNmbr": "Piazza Diaz 6",
+                    "CityName": "Milano",
+                    "PostalCode": "20123",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(ML5) Milano Pza Diaz - Piazza Diaz 6, Milano, Italy"
+    },
+    {
+        "id": "ML8",
+        "idBrand": 12,
+        "fullCode": "MILC03",
+        "idCountry": 109,
+        "lat": "45.492992",
+        "lon": "9.236157",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "ML8",
+                "Name": "Milano Via Carnia",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC03",
+                "Telephone": "0022896736",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.492992",
+                "Longitude": "9.236157",
+                "Address": {
+                    "StreetNmbr": "Via Carnia 7/9",
+                    "CityName": "Milano",
+                    "PostalCode": "20132",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "Q0N",
+                "Name": "Bd Milano Via Carnia",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC11",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.49301",
+                "Longitude": "9.236197",
+                "Address": {
+                    "StreetNmbr": "Via Carnia  7/9",
+                    "CityName": "Milano",
+                    "PostalCode": "20132",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(ML8) Milano Via Carnia - Via Carnia 7/9, Milano, Italy"
+    },
+    {
+        "id": "ML9",
+        "idBrand": 1,
+        "fullCode": "MILC05",
+        "idCountry": 109,
+        "lat": "45.458553",
+        "lon": "9.153288",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "ML9",
+                "Name": "Milano Hub",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC05",
+                "Telephone": "0289409016",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.458553",
+                "Longitude": "9.153288",
+                "Address": {
+                    "StreetNmbr": "Via Canonica 64",
+                    "CityName": "Milano",
+                    "PostalCode": "20154",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(ML9) Milano Hub - Via Canonica 64, Milano, Italy"
+    },
+    {
+        "id": "PES",
+        "idBrand": 1,
+        "fullCode": "RMIS01",
+        "idCountry": 109,
+        "lat": "43.91016",
+        "lon": "12.89592",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "PES",
+                "Name": "Pesaro",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "RMIS01",
+                "Telephone": "072134549",
+                "Schedule": {
+                    "monday": {
+                        "start": "15:30",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "15:30",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "15:30",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "15:30",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "15:30",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "12:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "15:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "15:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "15:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "15:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "15:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        }
+                    ]
+                },
+                "Latitude": "43.91016",
+                "Longitude": "12.89592",
+                "Address": {
+                    "StreetNmbr": "Via Milano 13",
+                    "CityName": "Pesaro",
+                    "PostalCode": "61100",
+                    "StateProv_Name": "Pesaro",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(PES) Pesaro - Via Milano 13, Pesaro, Italy"
+    },
+    {
+        "id": "VCZ",
+        "idBrand": 12,
+        "fullCode": "VICC01",
+        "idCountry": 109,
+        "lat": "45.54282",
+        "lon": "11.537347",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "VCZ",
+                "Name": "Vicenza",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "VICC01",
+                "Telephone": "0444321622",
+                "Schedule": {
+                    "monday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.54282",
+                "Longitude": "11.537347",
+                "Address": {
+                    "StreetNmbr": "Viale Milano 88",
+                    "CityName": "Vicenza",
+                    "PostalCode": "36100",
+                    "StateProv_Name": "Vicenza",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "N7D",
+                "Name": "Bd Vicenza",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "VICC01",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.543076",
+                "Longitude": "11.537128",
+                "Address": {
+                    "StreetNmbr": "Viale Milano 88",
+                    "CityName": "Vicenza",
+                    "PostalCode": "36100",
+                    "StateProv_Name": "Vicenza",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(VCZ) Vicenza - Viale Milano 88, Vicenza, Italy"
+    },
+    {
+        "id": "V2D",
+        "idBrand": 12,
+        "fullCode": "MILC11",
+        "idCountry": 109,
+        "lat": "45.48416",
+        "lon": "9.20423",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "V2D",
+                "Name": "Milano Railway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC11",
+                "Telephone": "02 67070992",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "sunday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.48416",
+                "Longitude": "9.20423",
+                "Address": {
+                    "StreetNmbr": "Pickup:piazza Duca D Aosta 1",
+                    "CityName": "Milano",
+                    "PostalCode": "20124",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M9D",
+                "Name": "Bd Milano Railway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC08",
+                "Telephone": "02-67070992",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "20:00"
+                    },
+                    "sunday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.484936",
+                "Longitude": "9.204706",
+                "Address": {
+                    "StreetNmbr": "Pickup:piazza Duca D Aosta 1",
+                    "CityName": "Milano",
+                    "PostalCode": "20124",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(V2D) Milano Railway - Pickup:piazza Duca D Aosta 1, Milano, Italy"
+    },
+    {
+        "id": "MW6",
+        "idBrand": 1,
+        "fullCode": "MILE30",
+        "idCountry": 109,
+        "lat": "45.499725",
+        "lon": "9.085568",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "MW6",
+                "Name": "Pero Milano Fiera",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILE30",
+                "Telephone": "00390289765834",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "13:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.499725",
+                "Longitude": "9.085568",
+                "Address": {
+                    "StreetNmbr": "Via Leonardo Da Vinci 12",
+                    "CityName": "Pero",
+                    "PostalCode": "20016",
+                    "StateProv_Name": "Pero",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MW6) Pero Milano Fiera - Via Leonardo Da Vinci 12, Pero, Italy"
+    },
+    {
+        "id": "M36",
+        "idBrand": 12,
+        "fullCode": "MILN19",
+        "idCountry": 109,
+        "lat": "45.40232",
+        "lon": "9.14977",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "M36",
+                "Name": "Assago Milanofiori Nord",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILN19",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ]
+                },
+                "Latitude": "45.40232",
+                "Longitude": "9.14977",
+                "Address": {
+                    "StreetNmbr": "Centro Congressi Nh",
+                    "CityName": "Assago Milanofiori",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "Assago Milanofiori",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M48",
+                "Name": "Bd Assago Milanofiori Nord",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILN20",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "17:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:30"
+                        }
+                    ]
+                },
+                "Latitude": "45.40229",
+                "Longitude": "9.14881",
+                "Address": {
+                    "StreetNmbr": "Centro Congressi Nh",
+                    "CityName": "Assago Milanofiori",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "Assago Milanofiori",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(M36) Assago Milanofiori Nord - Centro Congressi Nh, Assago Milanofiori, Italy"
+    },
+    {
+        "id": "Q5S",
+        "idBrand": 12,
+        "fullCode": "MILX05",
+        "idCountry": 109,
+        "lat": "45.43359",
+        "lon": "9.238473",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "Q5S",
+                "Name": "Milano Rogoredo Railway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILX05",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.43359",
+                "Longitude": "9.238473",
+                "Address": {
+                    "StreetNmbr": "Via G Battista Cassinis 76",
+                    "CityName": "Milano",
+                    "PostalCode": "20139",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "Q5V",
+                "Name": "Bd Milano Rogoredo Railway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILX06",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "13:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "13:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.43359",
+                "Longitude": "9.238473",
+                "Address": {
+                    "StreetNmbr": "Via G. Battista Cassinis 76",
+                    "CityName": "Milano",
+                    "PostalCode": "20139",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(Q5S) Milano Rogoredo Railway - Via G Battista Cassinis 76, Milano, Italy"
+    },
+    {
+        "id": "M9H",
+        "idBrand": 2,
+        "fullCode": "MILC09",
+        "idCountry": 109,
+        "lat": "45.496666",
+        "lon": "9.294959",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M9H",
+                "Name": "Bd Segrate Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC09",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.496666",
+                "Longitude": "9.294959",
+                "Address": {
+                    "StreetNmbr": "Via Conte Suardi 96",
+                    "CityName": "Segrate Milano",
+                    "PostalCode": "20090",
+                    "StateProv_Name": "Segrate Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(M9H) Bd Segrate Dt - Via Conte Suardi 96, Segrate Milano, Italy"
+    },
+    {
+        "id": "TI0",
+        "idBrand": 2,
+        "fullCode": "MILC10",
+        "idCountry": 109,
+        "lat": "45.48046",
+        "lon": "9.17167",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "TI0",
+                "Name": "Bd Milano Hub",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC10",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "08:30",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:30",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.48046",
+                "Longitude": "9.17167",
+                "Address": {
+                    "StreetNmbr": "Via Canonica 64",
+                    "CityName": "Milano",
+                    "PostalCode": "20154",
+                    "StateProv_Name": "Milano",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(TI0) Bd Milano Hub - Via Canonica 64, Milano, Italy"
+    },
+    {
+        "id": "M8I",
+        "idBrand": 2,
+        "fullCode": "MILE29",
+        "idCountry": 109,
+        "lat": "45.531406",
+        "lon": "9.072304",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M8I",
+                "Name": "Bd Pero Milano Fiera",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILE29",
+                "Telephone": "00390289765834",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "13:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.531406",
+                "Longitude": "9.072304",
+                "Address": {
+                    "StreetNmbr": "Via Leonardo Da Vinci 12",
+                    "CityName": "Pero",
+                    "PostalCode": "20016",
+                    "StateProv_Name": "Pero",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(M8I) Bd Pero Milano Fiera - Via Leonardo Da Vinci 12, Pero, Italy"
+    },
+    {
+        "id": "MILC71",
+        "idBrand": 456,
+        "fullCode": "MILC71",
+        "idCountry": 109,
+        "lat": "45.483906",
+        "lon": "9.199349",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "MILC71",
+                "Name": "MILAN CENTRAL RAIL STN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC71",
+                "Telephone": "00390267075767",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.483906",
+                "Longitude": "9.199349",
+                "Address": {
+                    "StreetNmbr": "VIA G B PIRELLI 15",
+                    "CityName": "MILAN",
+                    "PostalCode": "20124",
+                    "StateProv_Name": "MILAN",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "MILC01",
+                "Name": "MILAN CENTRAL RAIL STN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC01",
+                "Telephone": "00390267075767",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.483906",
+                "Longitude": "9.199349",
+                "Address": {
+                    "StreetNmbr": "VIA G B PIRELLI 15",
+                    "CityName": "MILAN",
+                    "PostalCode": "20124",
+                    "StateProv_Name": "MILAN",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MILC62",
+                "Name": "MILAN CENTRAL RAIL STN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC62",
+                "Telephone": "00390267075767",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.483906",
+                "Longitude": "9.199349",
+                "Address": {
+                    "StreetNmbr": "VIA G B PIRELLI 15",
+                    "CityName": "MILANO",
+                    "PostalCode": "20124",
+                    "StateProv_Name": "MILANO",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(MILC71) MILAN CENTRAL RAIL STN - VIA G B PIRELLI 15, MILAN, Italy"
+    },
+    {
+        "id": "MILC64",
+        "idBrand": 6,
+        "fullCode": "MILC64",
+        "idCountry": 109,
+        "lat": "45.441048",
+        "lon": "9.223777",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MILC64",
+                "Name": "MILAN CORVETTO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC64",
+                "Telephone": "0257406422",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "14:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "14:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.441048",
+                "Longitude": "9.223777",
+                "Address": {
+                    "StreetNmbr": "VIALE LUCANIA 5",
+                    "CityName": "MILAN",
+                    "PostalCode": "20139",
+                    "StateProv_Name": "MILAN",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(MILC64) MILAN CORVETTO - VIALE LUCANIA 5, MILAN, Italy"
+    },
+    {
+        "id": "MILC68",
+        "idBrand": 6,
+        "fullCode": "MILC68",
+        "idCountry": 109,
+        "lat": "45.476498",
+        "lon": "9.149663",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MILC68",
+                "Name": "MILANO CITY LIFE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC68",
+                "Telephone": "0245477985",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:30"
+                        }
+                    ]
+                },
+                "Latitude": "45.476498",
+                "Longitude": "9.149663",
+                "Address": {
+                    "StreetNmbr": "VIA SEBASTIANO DEL PIOMBO 3",
+                    "CityName": "MILANO",
+                    "PostalCode": "20149",
+                    "StateProv_Name": "MILANO",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(MILC68) MILANO CITY LIFE - VIA SEBASTIANO DEL PIOMBO 3, MILANO, Italy"
+    },
+    {
+        "id": "MILC63",
+        "idBrand": 6,
+        "fullCode": "MILC63",
+        "idCountry": 109,
+        "lat": "45.523505",
+        "lon": "9.227018",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MILC63",
+                "Name": "SESTO SAN GIOVANNI DT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC63",
+                "Telephone": "00390224412013",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:30",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "14:30",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "14:30",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "14:30",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "14:30",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "8:30",
+                        "end": "12:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:30",
+                            "end": "12:30"
+                        }
+                    ]
+                },
+                "Latitude": "45.523505",
+                "Longitude": "9.227018",
+                "Address": {
+                    "StreetNmbr": "VIA FIUME 33 35",
+                    "CityName": "MILAN",
+                    "PostalCode": "20099",
+                    "StateProv_Name": "MILAN",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(MILC63) SESTO SAN GIOVANNI DT - VIA FIUME 33 35, MILAN, Italy"
+    },
+    {
+        "id": "MILC69",
+        "idBrand": 6,
+        "fullCode": "MILC69",
+        "idCountry": 109,
+        "lat": "45.457293",
+        "lon": "9.205231",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MILC69",
+                "Name": "MILANO PORTA ROMANA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC69",
+                "Telephone": "0236728938",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "14:30",
+                        "end": "18:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:30",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "18:30"
+                        }
+                    ]
+                },
+                "Latitude": "45.457293",
+                "Longitude": "9.205231",
+                "Address": {
+                    "StreetNmbr": "VIALE MONTE NERO 41",
+                    "CityName": "MILANO",
+                    "PostalCode": "20135",
+                    "StateProv_Name": "MILANO",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(MILC69) MILANO PORTA ROMANA - VIALE MONTE NERO 41, MILANO, Italy"
+    },
+    {
+        "id": "MILC67",
+        "idBrand": 6,
+        "fullCode": "MILC67",
+        "idCountry": 109,
+        "lat": "45.444713",
+        "lon": "9.165544",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MILC67",
+                "Name": "MILANO ASSAGO CASSALA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MILC67",
+                "Telephone": "393755858600",
+                "Schedule": {
+                    "monday": {
+                        "start": "14:30",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "14:30",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "14:30",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "14:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "14:30",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "19:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "14:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "start": "19:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "45.444713",
+                "Longitude": "9.165544",
+                "Address": {
+                    "StreetNmbr": "VIALE CASSALA 57",
+                    "CityName": "MILANO",
+                    "PostalCode": "20143",
+                    "StateProv_Name": "MILANO",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(MILC67) MILANO ASSAGO CASSALA - VIALE CASSALA 57, MILANO, Italy"
+    }
+]

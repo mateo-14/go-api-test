@@ -1,0 +1,1642 @@
+[
+    {
+        "id": "EZET61",
+        "idBrand": 456,
+        "fullCode": "EZET61",
+        "idCountry": 10,
+        "lat": "-34.814854",
+        "lon": "-58.534807",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "EZET61",
+                "Name": "MINISTRO PISTARINI ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "EZET61",
+                "Telephone": "1154805581",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.814854",
+                "Longitude": "-58.534807",
+                "Address": {
+                    "StreetNmbr": "AUTOPISTA TTE GRAL RICCHIERI",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "B1802EZE",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "EZET01",
+                "Name": "MINISTRO PISTARINI ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "EZET01",
+                "Telephone": "1154805581",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.814854",
+                "Longitude": "-58.534807",
+                "Address": {
+                    "StreetNmbr": "AUTOPISTA TTE GRAL RICCHIERI",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "B1802EZE",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "EZET71",
+                "Name": "MINISTRO PISTARINI ARPT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "EZET71",
+                "Telephone": "1154805581",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.814854",
+                "Longitude": "-58.534807",
+                "Address": {
+                    "StreetNmbr": "AUTOPISTA TTE GRAL RICCHIERI",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "B1802EZE",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(EZET61) MINISTRO PISTARINI ARPT - AUTOPISTA TTE GRAL RICCHIERI, BUENOS AIRES, Argentina"
+    },
+    {
+        "id": "AEPT61",
+        "idBrand": 12456,
+        "fullCode": "AEPT61",
+        "idCountry": 10,
+        "lat": "-34.557752",
+        "lon": "-58.41703",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO",
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "AEPT61",
+                "Name": "JORGE NEWBERRY DOMESTIC",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "AEPT61",
+                "Telephone": "1154803460",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.557752",
+                "Longitude": "-58.41703",
+                "Address": {
+                    "StreetNmbr": "AVE RAFAEL OBLIGADO S N",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "00000",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "AEPT01",
+                "Name": "JORGE NEWBERY DOMESTIC",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "AEPT01",
+                "Telephone": "1154803460",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.557752",
+                "Longitude": "-58.41703",
+                "Address": {
+                    "StreetNmbr": "AVE RAFAEL OBLIGADO S N",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "C1425DAA",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "AEPT71",
+                "Name": "JORGE NEWBERY DOMESTIC",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "AEPT71",
+                "Telephone": "1154803460",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.557752",
+                "Longitude": "-58.41703",
+                "Address": {
+                    "StreetNmbr": "AVE RAFAEL OBLIGADO S N CIUDAD",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "c1425daa",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "AEP",
+                "Name": "Aeroparque Jorge Newbery",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "AEPT01",
+                "Telephone": "54-11-2010-0117",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.5564",
+                "Longitude": "-58.41626",
+                "Address": {
+                    "StreetNmbr": "Aeropuerto Jorge Newbery",
+                    "CityName": "Buenos Aires",
+                    "PostalCode": "1425",
+                    "StateProv_Name": "Buenos Aires",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "AEP",
+                "Name": "Aeroparque Jorge Newbery",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "AEPT01",
+                "Telephone": "54-11-2010-0117",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "22:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "22:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.5564",
+                "Longitude": "-58.41626",
+                "Address": {
+                    "StreetNmbr": "Aeropuerto Jorge Newbery",
+                    "CityName": "Buenos Aires",
+                    "PostalCode": "1425",
+                    "StateProv_Name": "Buenos Aires",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(AEP) Aeroparque Jorge Newbery - Aeropuerto Jorge Newbery, Buenos Aires, Argentina"
+    },
+    {
+        "id": "EZE",
+        "idBrand": 12,
+        "fullCode": "EZET01",
+        "idCountry": 10,
+        "lat": "-34.811977",
+        "lon": "-58.53962",
+        "icon": [
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "EZE",
+                "Name": "Ezeiza Intl Airport",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "EZET01",
+                "Telephone": "54-11-4480-9387",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ]
+                },
+                "Latitude": "-34.811977",
+                "Longitude": "-58.53962",
+                "Address": {
+                    "StreetNmbr": "Ezeiza International Airport",
+                    "CityName": "Buenos Aires",
+                    "PostalCode": "1802",
+                    "StateProv_Name": "Buenos Aires",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "EZE",
+                "Name": "Ezeiza Int'l Airport",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "EZET01",
+                "Telephone": "54-11-4480-9387",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:15"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:15"
+                        }
+                    ]
+                },
+                "Latitude": "-34.81342",
+                "Longitude": "-58.53878",
+                "Address": {
+                    "StreetNmbr": "Ezeiza Intl Airport",
+                    "CityName": "Buenos Aires",
+                    "PostalCode": "1802",
+                    "StateProv_Name": "Buenos Aires",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(EZE) Ezeiza Int'l Airport - Ezeiza Intl Airport, Buenos Aires, Argentina"
+    },
+    {
+        "id": "MP9",
+        "idBrand": 12,
+        "fullCode": "BUEN01",
+        "idCountry": 10,
+        "lat": "-34.58962",
+        "lon": "-58.382427",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "MP9",
+                "Name": "Buenos Aires D.T",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BUEN01",
+                "Telephone": "54-11-4326-5542",
+                "Schedule": {
+                    "monday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.58962",
+                "Longitude": "-58.382427",
+                "Address": {
+                    "StreetNmbr": "Cerrito 1535",
+                    "CityName": "Buenos Aires",
+                    "PostalCode": "C1010ABE",
+                    "StateProv_Name": "Buenos Aires",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "DP5",
+                "Name": "Buenos Aires Downtown",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BUEC03",
+                "Telephone": "54-11-4326-5542",
+                "Schedule": {
+                    "monday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "19:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "19:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.589783",
+                "Longitude": "-58.382153",
+                "Address": {
+                    "StreetNmbr": "Cerrito 1535",
+                    "CityName": "Buenos Aires",
+                    "PostalCode": "1010",
+                    "StateProv_Name": "Buenos Aires",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MP9) Buenos Aires D.T - Cerrito 1535, Buenos Aires, Argentina"
+    },
+    {
+        "id": "BUEC71",
+        "idBrand": 456,
+        "fullCode": "BUEC71",
+        "idCountry": 10,
+        "lat": "-34.592485",
+        "lon": "-58.383022",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "BUEC71",
+                "Name": "BUENOS AIRES DOWNTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BUEC71",
+                "Telephone": "1148116903",
+                "Schedule": {
+                    "monday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.592485",
+                "Longitude": "-58.383022",
+                "Address": {
+                    "StreetNmbr": "BUENOS AIRES DOWNTOWN",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "C1010ABB",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "BUEC01",
+                "Name": "BUENOS AIRES DOWNTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BUEC01",
+                "Telephone": "1148116903",
+                "Schedule": {
+                    "monday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.592397",
+                "Longitude": "-58.382863",
+                "Address": {
+                    "StreetNmbr": "BUENOS AIRES DOWNTOWN",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "C1010ABB",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "BUEC61",
+                "Name": "BUENOS AIRES DOWNTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "BUEC61",
+                "Telephone": "1148119993",
+                "Schedule": {
+                    "monday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "9:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "-34.592397",
+                "Longitude": "-58.382863",
+                "Address": {
+                    "StreetNmbr": "CERRITO 1318 CAPITAL FEDERAL",
+                    "CityName": "BUENOS AIRES",
+                    "PostalCode": "C1010ABB",
+                    "StateProv_Name": "BUENOS AIRES",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(BUEC71) BUENOS AIRES DOWNTOWN - BUENOS AIRES DOWNTOWN, BUENOS AIRES, Argentina"
+    },
+    {
+        "id": "SLAC71",
+        "idBrand": 45,
+        "fullCode": "SLAC71",
+        "idCountry": 10,
+        "lat": "-24.793413",
+        "lon": "-65.410122",
+        "icon": [
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "SLAC71",
+                "Name": "SALTA DOWNTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "SLAC71",
+                "Telephone": "3874228779",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "-24.793413",
+                "Longitude": "-65.410122",
+                "Address": {
+                    "StreetNmbr": "BUENOS AIRES 262",
+                    "CityName": "SALTA",
+                    "PostalCode": "04400",
+                    "StateProv_Name": "SALTA",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "SLAC01",
+                "Name": "SALTA - DOWNTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "SLAC01",
+                "Telephone": "3874228779",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "21:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "-24.793413",
+                "Longitude": "-65.410122",
+                "Address": {
+                    "StreetNmbr": "BUENOS AIRES 262",
+                    "CityName": "SALTA",
+                    "PostalCode": "04400",
+                    "StateProv_Name": "SALTA",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(SLAC71) SALTA DOWNTOWN - BUENOS AIRES 262, SALTA, Argentina"
+    }
+]

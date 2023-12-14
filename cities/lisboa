@@ -1,0 +1,577 @@
+[
+    {
+        "id": "LIS",
+        "idBrand": 12,
+        "fullCode": "LIST01",
+        "idCountry": 177,
+        "lat": "38.76777",
+        "lon": "-9.128435",
+        "icon": [
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "LIS",
+                "Name": "Budget Lisbon Airport",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LIST01",
+                "Telephone": "351 21 8435550",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "38.76777",
+                "Longitude": "-9.128435",
+                "Address": {
+                    "StreetNmbr": "Aeroporto Portela Lisboa",
+                    "CityName": "Lisboa",
+                    "PostalCode": "1700 008",
+                    "StateProv_Name": "Lisboa",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "LIS",
+                "Name": "Lisbon Airport",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LIST01",
+                "Telephone": "351 21 8435550",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "38.76765",
+                "Longitude": "-9.128584",
+                "Address": {
+                    "StreetNmbr": "Aeroporto Portela Lisboa",
+                    "CityName": "Lisboa",
+                    "PostalCode": "1700 008",
+                    "StateProv_Name": "Lisboa",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(LIS) Lisbon Airport - Aeroporto Portela Lisboa, Lisboa, Portugal"
+    },
+    {
+        "id": "P34",
+        "idBrand": 1,
+        "fullCode": "LISC03",
+        "idCountry": 177,
+        "lat": "38.714966",
+        "lon": "-9.136878",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "P34",
+                "Name": "Hotel Mundial Lisboa  Pt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LISC03",
+                "Telephone": "351 21 317 42 31",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "18:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:00"
+                        }
+                    ]
+                },
+                "Latitude": "38.714966",
+                "Longitude": "-9.136878",
+                "Address": {
+                    "StreetNmbr": "Hotel Mundial",
+                    "CityName": "Lisboa",
+                    "PostalCode": "1100 341",
+                    "StateProv_Name": "Lisboa",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(P34) Hotel Mundial Lisboa  Pt - Hotel Mundial, Lisboa, Portugal"
+    },
+    {
+        "id": "C4S",
+        "idBrand": 12,
+        "fullCode": "LISX03",
+        "idCountry": 177,
+        "lat": "38.76777",
+        "lon": "-9.099094",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "C4S",
+                "Name": "Gare Do Oriente",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LISX03",
+                "Telephone": "351 218953915",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "saturday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ]
+                },
+                "Latitude": "38.76777",
+                "Longitude": "-9.099094",
+                "Address": {
+                    "StreetNmbr": "Gare Do Oriente",
+                    "CityName": "Lisboa",
+                    "PostalCode": "1990 999",
+                    "StateProv_Name": "Lisboa",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "QO8",
+                "Name": "Bd Main Railway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LISX01",
+                "Telephone": "351 218953915",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "13:00"
+                    },
+                    "saturday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    },
+                    "sunday": {
+                        "start": "15:00",
+                        "end": "19:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        },
+                        {
+                            "start": "08:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "15:00",
+                            "end": "19:00"
+                        }
+                    ]
+                },
+                "Latitude": "38.7679",
+                "Longitude": "-9.099517",
+                "Address": {
+                    "StreetNmbr": "Gare Do Oriente",
+                    "CityName": "Lisboa",
+                    "PostalCode": "1900 999",
+                    "StateProv_Name": "Lisboa",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(C4S) Gare Do Oriente - Gare Do Oriente, Lisboa, Portugal"
+    }
+]

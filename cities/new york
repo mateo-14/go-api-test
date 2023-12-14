@@ -1,0 +1,3769 @@
+[
+    {
+        "id": "E43",
+        "idBrand": 12,
+        "fullCode": "NYCC01",
+        "idCountry": 235,
+        "lat": "40.751038",
+        "lon": "-73.972496",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "E43",
+                "Name": "Avis Of East 43rd Street",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC01",
+                "Telephone": "212-682-1860",
+                "Schedule": {
+                    "monday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "00:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "00:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "40.751038",
+                "Longitude": "-73.972496",
+                "Address": {
+                    "StreetNmbr": "225 East 43rd Street",
+                    "CityName": "New York",
+                    "PostalCode": "10017",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "BGNY1",
+                "Name": "E 44 Nyc",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC09",
+                "Telephone": "646-559-6552",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.751354",
+                "Longitude": "-73.97269",
+                "Address": {
+                    "StreetNmbr": "222 East 44th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10017",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E43) Avis Of East 43rd Street - 225 East 43rd Street, New York, United States"
+    },
+    {
+        "id": "E64",
+        "idBrand": 1,
+        "fullCode": "NYCC06",
+        "idCountry": 235,
+        "lat": "40.763237",
+        "lon": "-73.96161",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "E64",
+                "Name": "Avis Of East 64th St.",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC06",
+                "Telephone": "212-593-8363",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.763237",
+                "Longitude": "-73.96161",
+                "Address": {
+                    "StreetNmbr": "310 East 64th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10021",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E64) Avis Of East 64th St. - 310 East 64th Street, New York, United States"
+    },
+    {
+        "id": "W42",
+        "idBrand": 1,
+        "fullCode": "NYCC08",
+        "idCountry": 235,
+        "lat": "40.76082",
+        "lon": "-73.99595",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "W42",
+                "Name": "Avis Of West 43rd Street",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC08",
+                "Telephone": "646-473-0088",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.76082",
+                "Longitude": "-73.99595",
+                "Address": {
+                    "StreetNmbr": "515 West 43rd Street",
+                    "CityName": "New York",
+                    "PostalCode": "10036",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(W42) Avis Of West 43rd Street - 515 West 43rd Street, New York, United States"
+    },
+    {
+        "id": "W54",
+        "idBrand": 1,
+        "fullCode": "NYCC09",
+        "idCountry": 235,
+        "lat": "40.763462",
+        "lon": "-73.98089",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "W54",
+                "Name": "Avis Of West 54th Street",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC09",
+                "Telephone": "212-593-8470",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.763462",
+                "Longitude": "-73.98089",
+                "Address": {
+                    "StreetNmbr": "153 West 54th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10019",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(W54) Avis Of West 54th Street - 153 West 54th Street, New York, United States"
+    },
+    {
+        "id": "M1H",
+        "idBrand": 1,
+        "fullCode": "NYCC11",
+        "idCountry": 235,
+        "lat": "40.749542",
+        "lon": "-73.9934",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "M1H",
+                "Name": "Avis Of West 31st Street",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC11",
+                "Telephone": "646-733-5995",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.749542",
+                "Longitude": "-73.9934",
+                "Address": {
+                    "StreetNmbr": "220 West 31st Street",
+                    "CityName": "New York",
+                    "PostalCode": "10001",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(M1H) Avis Of West 31st Street - 220 West 31st Street, New York, United States"
+    },
+    {
+        "id": "E11",
+        "idBrand": 1,
+        "fullCode": "NYCC03",
+        "idCountry": 235,
+        "lat": "40.7326",
+        "lon": "-73.99221",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "E11",
+                "Name": "Avis East 11th Street",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC03",
+                "Telephone": "212-593-8397",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.7326",
+                "Longitude": "-73.99221",
+                "Address": {
+                    "StreetNmbr": "68 East 11th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10003",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E11) Avis East 11th Street - 68 East 11th Street, New York, United States"
+    },
+    {
+        "id": "N2Y",
+        "idBrand": 1,
+        "fullCode": "NYCC02",
+        "idCountry": 235,
+        "lat": "40.781395",
+        "lon": "-73.98055",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "N2Y",
+                "Name": "Avis Of West 76th And Broadway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC02",
+                "Telephone": "212-595-0358",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.781395",
+                "Longitude": "-73.98055",
+                "Address": {
+                    "StreetNmbr": "216 West 76th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10023",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(N2Y) Avis Of West 76th And Broadway - 216 West 76th Street, New York, United States"
+    },
+    {
+        "id": "QN4",
+        "idBrand": 1,
+        "fullCode": "LASC09",
+        "idCountry": 235,
+        "lat": "36.1021",
+        "lon": "-115.17464",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "QN4",
+                "Name": "New York New York Hotel Casino",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "LASC09",
+                "Telephone": "702-740-6415",
+                "Schedule": {
+                    "monday": {
+                        "start": "13:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "13:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "13:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "13:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "13:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "13:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "13:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "start": "13:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "36.1021",
+                "Longitude": "-115.17464",
+                "Address": {
+                    "StreetNmbr": "3790 South Las Vegas Boulevard",
+                    "CityName": "Las Vegas",
+                    "PostalCode": "89109",
+                    "StateProv_Name": "Las Vegas",
+                    "StateCode": "NV"
+                }
+            }
+        ],
+        "name": "(QN4) New York New York Hotel Casino - 3790 South Las Vegas Boulevard, Las Vegas, United States"
+    },
+    {
+        "id": "J75",
+        "idBrand": 1,
+        "fullCode": "NYCC16",
+        "idCountry": 235,
+        "lat": "40.79425",
+        "lon": "-73.96718",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "J75",
+                "Name": "New York City",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC16",
+                "Telephone": "212-666-3593",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.79425",
+                "Longitude": "-73.96718",
+                "Address": {
+                    "StreetNmbr": "808 Columbus Ave",
+                    "CityName": "New York",
+                    "PostalCode": "10025",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(J75) New York City - 808 Columbus Ave, New York, United States"
+    },
+    {
+        "id": "AVE92",
+        "idBrand": 1,
+        "fullCode": "NYCC21",
+        "idCountry": 235,
+        "lat": "40.781784",
+        "lon": "-73.949646",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "AVE92",
+                "Name": "Avis East 92nd Street",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC21",
+                "Telephone": "212-444-7276",
+                "Schedule": {
+                    "monday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "06:30",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "06:30",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.781784",
+                "Longitude": "-73.949646",
+                "Address": {
+                    "StreetNmbr": "240 East 92nd Street",
+                    "CityName": "New York",
+                    "PostalCode": "10128",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(AVE92) Avis East 92nd Street - 240 East 92nd Street, New York, United States"
+    },
+    {
+        "id": "AVNY1",
+        "idBrand": 1,
+        "fullCode": "NYCC10",
+        "idCountry": 235,
+        "lat": "40.716316",
+        "lon": "-74.0123",
+        "icon": [
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "AVNY1",
+                "Name": "Avis Chambers Street",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC10",
+                "Telephone": "917-591-9977",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.716316",
+                "Longitude": "-74.0123",
+                "Address": {
+                    "StreetNmbr": "120 Warren Street",
+                    "CityName": "New York",
+                    "PostalCode": "10007",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(AVNY1) Avis Chambers Street - 120 Warren Street, New York, United States"
+    },
+    {
+        "id": "NY6",
+        "idBrand": 2,
+        "fullCode": "NYCC01",
+        "idCountry": 235,
+        "lat": "40.74396",
+        "lon": "-73.980194",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "NY6",
+                "Name": "Manhattan E 31st",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC01",
+                "Telephone": "212-661-5906",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.74396",
+                "Longitude": "-73.980194",
+                "Address": {
+                    "StreetNmbr": "142 East 31st Street",
+                    "CityName": "New York",
+                    "PostalCode": "10016",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(NY6) Manhattan E 31st - 142 East 31st Street, New York, United States"
+    },
+    {
+        "id": "NY5",
+        "idBrand": 2,
+        "fullCode": "NYCC04",
+        "idCountry": 235,
+        "lat": "40.76181",
+        "lon": "-73.98723",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "NY5",
+                "Name": "Manhattan W 49th",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC04",
+                "Telephone": "212-397-4375",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.76181",
+                "Longitude": "-73.98723",
+                "Address": {
+                    "StreetNmbr": "304 West 49th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10019",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(NY5) Manhattan W 49th - 304 West 49th Street, New York, United States"
+    },
+    {
+        "id": "E87",
+        "idBrand": 2,
+        "fullCode": "NYCC05",
+        "idCountry": 235,
+        "lat": "40.77798",
+        "lon": "-73.95025",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "E87",
+                "Name": "Manhattan E 87th",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC05",
+                "Telephone": "212-289-3920",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.77798",
+                "Longitude": "-73.95025",
+                "Address": {
+                    "StreetNmbr": "300 East 87th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10128",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E87) Manhattan E 87th - 300 East 87th Street, New York, United States"
+    },
+    {
+        "id": "N9Y",
+        "idBrand": 2,
+        "fullCode": "NYCC06",
+        "idCountry": 235,
+        "lat": "40.729584",
+        "lon": "-73.98845",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "N9Y",
+                "Name": "E9th Nyc",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC06",
+                "Telephone": "212-477-7180",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.729584",
+                "Longitude": "-73.98845",
+                "Address": {
+                    "StreetNmbr": "220 East 9th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10003",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(N9Y) E9th Nyc - 220 East 9th Street, New York, United States"
+    },
+    {
+        "id": "BGW58",
+        "idBrand": 245,
+        "fullCode": "NYCC10",
+        "idCountry": 235,
+        "lat": "40.76788",
+        "lon": "-73.98382",
+        "icon": [
+            "BUDGET",
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "BGW58",
+                "Name": "Columbus Circle New York Ny",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC10",
+                "Telephone": "212-444-7310",
+                "Schedule": {
+                    "monday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "tuesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "wednesday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "thursday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "friday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "saturday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    },
+                    "sunday": {
+                        "start": "07:00",
+                        "end": "15:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "07:00",
+                            "end": "15:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.76788",
+                "Longitude": "-73.98382",
+                "Address": {
+                    "StreetNmbr": "336 West 58th Street",
+                    "CityName": "New York",
+                    "PostalCode": "10019",
+                    "StateProv_Name": "New York",
+                    "StateCode": "NY"
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "NYCC78",
+                "Name": "MANHATTAN W 56TH ST",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC78",
+                "Telephone": "6466924999",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "17:30"
+                    },
+                    "sunday": {
+                        "start": "9:30",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:30",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.7666",
+                "Longitude": "-73.984",
+                "Address": {
+                    "StreetNmbr": "313 W 56TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10019",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "NYCC08",
+                "Name": "MANHAT W 57 ST",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC08",
+                "Telephone": "6466923999",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "17:30"
+                    },
+                    "sunday": {
+                        "start": "9:30",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:30",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.7666",
+                "Longitude": "-73.984",
+                "Address": {
+                    "StreetNmbr": "313 W 56TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10019",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(BGW58) Columbus Circle New York Ny - 336 West 58th Street, New York, United States"
+    },
+    {
+        "id": "NYCC71",
+        "idBrand": 45,
+        "fullCode": "NYCC71",
+        "idCountry": 235,
+        "lat": "40.758958",
+        "lon": "-73.990218",
+        "icon": [
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "NYCC71",
+                "Name": "MANHATTAN W 44TH ST",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC71",
+                "Telephone": "8888266893",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:30",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "17:30"
+                    },
+                    "sunday": {
+                        "start": "9:30",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:30",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.758958",
+                "Longitude": "-73.990218",
+                "Address": {
+                    "StreetNmbr": "332 W 44TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10036",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "NYCC01",
+                "Name": "MANHATTAN W 44TH ST",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC01",
+                "Telephone": "2125755400",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "17:30"
+                    },
+                    "sunday": {
+                        "start": "9:30",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:30",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.758958",
+                "Longitude": "-73.990218",
+                "Address": {
+                    "StreetNmbr": "332 W 44TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10036",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(NYCC71) MANHATTAN W 44TH ST - 332 W 44TH ST, NEW YORK, United States"
+    },
+    {
+        "id": "NYCC75",
+        "idBrand": 45,
+        "fullCode": "NYCC75",
+        "idCountry": 235,
+        "lat": "40.729902",
+        "lon": "-73.993185",
+        "icon": [
+            "ALAMO",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "NYCC75",
+                "Name": "MANHATTAN BROADWAY ASTOR",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC75",
+                "Telephone": "8888266893",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "17:30"
+                    },
+                    "sunday": {
+                        "start": "9:30",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:30",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.729902",
+                "Longitude": "-73.993185",
+                "Address": {
+                    "StreetNmbr": "743 BROADWAY",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10003",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "NYCC05",
+                "Name": "MANHATTAN BROADWAY ASTOR",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC05",
+                "Telephone": "2123665423",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "17:30"
+                    },
+                    "sunday": {
+                        "start": "9:30",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:30",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.729902",
+                "Longitude": "-73.993185",
+                "Address": {
+                    "StreetNmbr": "743 BROADWAY",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10003",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(NYCC75) MANHATTAN BROADWAY ASTOR - 743 BROADWAY, NEW YORK, United States"
+    },
+    {
+        "id": "E10853",
+        "idBrand": 6,
+        "fullCode": "INDE53",
+        "idCountry": 235,
+        "lat": "39.935044",
+        "lon": "-85.37974",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E10853",
+                "Name": "NEW CASTLE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "INDE53",
+                "Telephone": "7655290450",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "39.935044",
+                "Longitude": "-85.37974",
+                "Address": {
+                    "StreetNmbr": "421 NEW YORK AVE",
+                    "CityName": "NEW CASTLE",
+                    "PostalCode": "47362",
+                    "StateProv_Name": "NEW CASTLE",
+                    "StateCode": "IN"
+                }
+            }
+        ],
+        "name": "(E10853) NEW CASTLE - 421 NEW YORK AVE, NEW CASTLE, United States"
+    },
+    {
+        "id": "E1243F",
+        "idBrand": 6,
+        "fullCode": "NYCC35",
+        "idCountry": 235,
+        "lat": "40.804672",
+        "lon": "-73.936404",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E1243F",
+                "Name": "HARLEM",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC35",
+                "Telephone": "2129873624",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.804672",
+                "Longitude": "-73.936404",
+                "Address": {
+                    "StreetNmbr": "162 E 126TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10035",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E1243F) HARLEM - 162 E 126TH ST, NEW YORK, United States"
+    },
+    {
+        "id": "E12456",
+        "idBrand": 6,
+        "fullCode": "NYCW56",
+        "idCountry": 235,
+        "lat": "40.785068",
+        "lon": "-74.022826",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E12456",
+                "Name": "WEST NEW YORK",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCW56",
+                "Telephone": "2018636650",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.785068",
+                "Longitude": "-74.022826",
+                "Address": {
+                    "StreetNmbr": "5124-28 KENNEDY BOULEVARD",
+                    "CityName": "WEST NEW YORK",
+                    "PostalCode": "07093",
+                    "StateProv_Name": "WEST NEW YORK",
+                    "StateCode": "NJ"
+                }
+            }
+        ],
+        "name": "(E12456) WEST NEW YORK - 5124-28 KENNEDY BOULEVARD, WEST NEW YORK, United States"
+    },
+    {
+        "id": "E124G1",
+        "idBrand": 6,
+        "fullCode": "NYCC01",
+        "idCountry": 235,
+        "lat": "40.764812",
+        "lon": "-73.99557",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124G1",
+                "Name": "WEST SIDE MANHATTAN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC01",
+                "Telephone": "2122623231",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.764812",
+                "Longitude": "-73.99557",
+                "Address": {
+                    "StreetNmbr": "667 11TH AVE",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10019",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124G1) WEST SIDE MANHATTAN - 667 11TH AVE, NEW YORK, United States"
+    },
+    {
+        "id": "E124G2",
+        "idBrand": 6,
+        "fullCode": "NYCC02",
+        "idCountry": 235,
+        "lat": "40.7293",
+        "lon": "-73.9992",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124G2",
+                "Name": "GREENWICH VILLAGE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC02",
+                "Telephone": "2125332900",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    },
+                    "sunday": {
+                        "start": "16:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "16:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.7293",
+                "Longitude": "-73.9992",
+                "Address": {
+                    "StreetNmbr": "221 THOMPSON ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10012",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124G2) GREENWICH VILLAGE - 221 THOMPSON ST, NEW YORK, United States"
+    },
+    {
+        "id": "E124G3",
+        "idBrand": 6,
+        "fullCode": "NYCC03",
+        "idCountry": 235,
+        "lat": "40.761336",
+        "lon": "-73.977632",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124G3",
+                "Name": "MIDTOWN-TIMES SQUARE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC03",
+                "Telephone": "2127306151",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.761336",
+                "Longitude": "-73.977632",
+                "Address": {
+                    "StreetNmbr": "57 W 53RD ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10019",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124G3) MIDTOWN-TIMES SQUARE - 57 W 53RD ST, NEW YORK, United States"
+    },
+    {
+        "id": "E124G4",
+        "idBrand": 6,
+        "fullCode": "NYCC04",
+        "idCountry": 235,
+        "lat": "40.774111",
+        "lon": "-73.954392",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124G4",
+                "Name": "UPPER EASTSIDE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC04",
+                "Telephone": "6464222600",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    },
+                    "sunday": {
+                        "start": "16:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "16:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.774111",
+                "Longitude": "-73.954392",
+                "Address": {
+                    "StreetNmbr": "305 E 80TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10075",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124G4) UPPER EASTSIDE - 305 E 80TH ST, NEW YORK, United States"
+    },
+    {
+        "id": "E124G6",
+        "idBrand": 6,
+        "fullCode": "NYCC06",
+        "idCountry": 235,
+        "lat": "40.785258",
+        "lon": "-73.974939",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124G6",
+                "Name": "UPPER WESTSIDE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC06",
+                "Telephone": "2128737474",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    },
+                    "sunday": {
+                        "start": "16:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "16:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.785258",
+                "Longitude": "-73.974939",
+                "Address": {
+                    "StreetNmbr": "147 W 83RD ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10024",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124G6) UPPER WESTSIDE - 147 W 83RD ST, NEW YORK, United States"
+    },
+    {
+        "id": "E124G9",
+        "idBrand": 6,
+        "fullCode": "NYCC24",
+        "idCountry": 235,
+        "lat": "40.743653",
+        "lon": "-73.992738",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124G9",
+                "Name": "CHELSEA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC24",
+                "Telephone": "2126479777",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "12:00"
+                    },
+                    "sunday": {
+                        "start": "16:00",
+                        "end": "20:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "12:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "16:00",
+                            "end": "20:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.743653",
+                "Longitude": "-73.992738",
+                "Address": {
+                    "StreetNmbr": "106 W 24TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10011",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124G9) CHELSEA - 106 W 24TH ST, NEW YORK, United States"
+    },
+    {
+        "id": "E124XG",
+        "idBrand": 6,
+        "fullCode": "NYCC20",
+        "idCountry": 235,
+        "lat": "40.7557",
+        "lon": "-73.9824",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124XG",
+                "Name": "MIDTOWN HIPPODROME",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC20",
+                "Telephone": "9175226775",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.7557",
+                "Longitude": "-73.9824",
+                "Address": {
+                    "StreetNmbr": "50 WEST 44TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10036",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124XG) MIDTOWN HIPPODROME - 50 WEST 44TH ST, NEW YORK, United States"
+    },
+    {
+        "id": "E124XM",
+        "idBrand": 6,
+        "fullCode": "NYCC07",
+        "idCountry": 235,
+        "lat": "40.748219",
+        "lon": "-73.971924",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E124XM",
+                "Name": "EAST MIDTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NYCC07",
+                "Telephone": "2128478120",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.748219",
+                "Longitude": "-73.971924",
+                "Address": {
+                    "StreetNmbr": "315 E 40TH ST",
+                    "CityName": "NEW YORK",
+                    "PostalCode": "10016",
+                    "StateProv_Name": "NEW YORK",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E124XM) EAST MIDTOWN - 315 E 40TH ST, NEW YORK, United States"
+    },
+    {
+        "id": "E12916",
+        "idBrand": 6,
+        "fullCode": "ROCS16",
+        "idCountry": 235,
+        "lat": "42.857077",
+        "lon": "-77.014923",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "E12916",
+                "Name": "GENEVA NEW YORK",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "ROCS16",
+                "Telephone": "3157893500",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "12:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "12:00"
+                        }
+                    ]
+                },
+                "Latitude": "42.857077",
+                "Longitude": "-77.014923",
+                "Address": {
+                    "StreetNmbr": "830 CANANDAIGUA RD",
+                    "CityName": "GENEVA",
+                    "PostalCode": "14456",
+                    "StateProv_Name": "GENEVA",
+                    "StateCode": "NY"
+                }
+            }
+        ],
+        "name": "(E12916) GENEVA NEW YORK - 830 CANANDAIGUA RD, GENEVA, United States"
+    },
+    {
+        "id": "NCLC62",
+        "idBrand": 6,
+        "fullCode": "NCLC12",
+        "idCountry": 234,
+        "lat": "55.028745",
+        "lon": "-1.50913",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "NCLC62",
+                "Name": "SHIREMOOR",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "NCLC12",
+                "Telephone": "0191-2663300",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "17:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "16:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                "Latitude": "55.028745",
+                "Longitude": "-1.50913",
+                "Address": {
+                    "StreetNmbr": "NEW YORK ROAD",
+                    "CityName": "NEWCASTLE UPON TYNE",
+                    "PostalCode": "NE27 0ER",
+                    "StateProv_Name": "NEWCASTLE UPON TYNE",
+                    "StateCode": "ENG"
+                }
+            }
+        ],
+        "name": "(NCLC62) SHIREMOOR - NEW YORK ROAD, NEWCASTLE UPON TYNE, United Kingdom"
+    }
+]

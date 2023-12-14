@@ -1,0 +1,4097 @@
+[
+    {
+        "id": "MADT61",
+        "idBrand": 456,
+        "fullCode": "MADT61",
+        "idCountry": 208,
+        "lat": "40.4983",
+        "lon": "-3.5676",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL",
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "MADT61",
+                "Name": "MADRID AEROPUERTO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADT61",
+                "Telephone": "912750995",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "40.4983",
+                "Longitude": "-3.5676",
+                "Address": {
+                    "StreetNmbr": "APTO DE MADRID ADOLFO SUAREZ",
+                    "CityName": "MADRID",
+                    "PostalCode": "28042",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "MADT03",
+                "Name": "MADRID AEROPUERTO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADT03",
+                "Telephone": "912750995",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "40.4983",
+                "Longitude": "-3.5676",
+                "Address": {
+                    "StreetNmbr": "ENTERPRISE RENT A CAR",
+                    "CityName": "MADRID",
+                    "PostalCode": "28042",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "MADT73",
+                "Name": "MADRID AEROPUERTO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADT73",
+                "Telephone": "912750995",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "7:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "7:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "40.4983",
+                "Longitude": "-3.5676",
+                "Address": {
+                    "StreetNmbr": "ENTERPRISE RENT A CAR",
+                    "CityName": "MADRID",
+                    "PostalCode": "28042",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADT61) MADRID AEROPUERTO - APTO DE MADRID ADOLFO SUAREZ, MADRID, Spain"
+    },
+    {
+        "id": "MCIT61",
+        "idBrand": 56,
+        "fullCode": "MCIT01",
+        "idCountry": 235,
+        "lat": "39.3053",
+        "lon": "-94.7059",
+        "icon": [
+            "ENTERPRISE",
+            "NATIONAL"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": true,
+                "Code": "MCIT61",
+                "Name": "KANSAS CITY AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MCIT01",
+                "Telephone": "8333383316",
+                "Schedule": {
+                    "monday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "39.3053",
+                "Longitude": "-94.7059",
+                "Address": {
+                    "StreetNmbr": "648 MADRID AVE",
+                    "CityName": "KANSAS CITY",
+                    "PostalCode": "64153",
+                    "StateProv_Name": "KANSAS CITY",
+                    "StateCode": "MO"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": true,
+                "Code": "MCIT01",
+                "Name": "KANSAS CITY AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MCIT01",
+                "Telephone": "8448688502",
+                "Schedule": {
+                    "monday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "39.30758",
+                "Longitude": "-94.70692",
+                "Address": {
+                    "StreetNmbr": "648 MADRID AVE",
+                    "CityName": "KANSAS CITY",
+                    "PostalCode": "64153",
+                    "StateProv_Name": "KANSAS CITY",
+                    "StateCode": "MO"
+                }
+            }
+        ],
+        "name": "(MCIT61) KANSAS CITY AIRPORT - 648 MADRID AVE, KANSAS CITY, United States"
+    },
+    {
+        "id": "MCIT71",
+        "idBrand": 4,
+        "fullCode": "MCIT71",
+        "idCountry": 235,
+        "lat": "39.28319",
+        "lon": "-94.67297",
+        "icon": [
+            "ALAMO"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": true,
+                "Code": "MCIT71",
+                "Name": "KANSAS CITY AIRPORT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MCIT71",
+                "Telephone": "8448688501",
+                "Schedule": {
+                    "monday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "tuesday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "wednesday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "thursday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "friday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "saturday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    },
+                    "sunday": {
+                        "start": "6:00",
+                        "end": "23:59"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "6:00",
+                            "end": "23:59"
+                        }
+                    ]
+                },
+                "Latitude": "39.28319",
+                "Longitude": "-94.67297",
+                "Address": {
+                    "StreetNmbr": "648 MADRID AVE",
+                    "CityName": "KANSAS CITY",
+                    "PostalCode": "64153",
+                    "StateProv_Name": "KANSAS CITY",
+                    "StateCode": "MO"
+                }
+            }
+        ],
+        "name": "(MCIT71) KANSAS CITY AIRPORT - 648 MADRID AVE, KANSAS CITY, United States"
+    },
+    {
+        "id": "MAD",
+        "idBrand": 12,
+        "fullCode": "MADT01",
+        "idCountry": 208,
+        "lat": "40.464508",
+        "lon": "-3.570205",
+        "icon": [
+            "BUDGET",
+            "AVIS"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": true,
+                "Code": "MAD",
+                "Name": "Bd Madrid Apt T1 T4",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADT01",
+                "Telephone": "902 200 162",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "40.464508",
+                "Longitude": "-3.570205",
+                "Address": {
+                    "StreetNmbr": "Madrid Apt T1 & T4 Service",
+                    "CityName": "Madrid",
+                    "PostalCode": "28042",
+                    "StateProv_Name": "Madrid",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "AVIS",
+                "AtAirport": true,
+                "Code": "MAD",
+                "Name": "Madrid Apt T1 T4",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADT01",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "00:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "22:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "00:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "22:30"
+                        }
+                    ]
+                },
+                "Latitude": "40.464165",
+                "Longitude": "-3.570362",
+                "Address": {
+                    "StreetNmbr": "Madrid Apt T1 & T4 Service",
+                    "CityName": "Madrid",
+                    "PostalCode": "28042",
+                    "StateProv_Name": "Madrid",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(MAD) Madrid Apt T1 T4 - Madrid Apt T1 & T4 Service, Madrid, Spain"
+    },
+    {
+        "id": "S6P",
+        "idBrand": 12,
+        "fullCode": "MADX19",
+        "idCountry": 208,
+        "lat": "40.407223",
+        "lon": "-3.691667",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "S6P",
+                "Name": "Madrid Atocha Ave Railway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX19",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ]
+                },
+                "Latitude": "40.407223",
+                "Longitude": "-3.691667",
+                "Address": {
+                    "StreetNmbr": "Es De Tren Atocha Ave Cercania",
+                    "CityName": "Madrid",
+                    "PostalCode": "28045",
+                    "StateProv_Name": "Madrid",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M98",
+                "Name": "Budget Atocha Rlway",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX01",
+                "Telephone": "902 110 291",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "saturday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    },
+                    "sunday": {
+                        "start": "08:00",
+                        "end": "23:30"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "08:00",
+                            "end": "23:30"
+                        }
+                    ]
+                },
+                "Latitude": "40.407543",
+                "Longitude": "-3.691712",
+                "Address": {
+                    "StreetNmbr": "Es De Tren Atocha Ave Cercania",
+                    "CityName": "Madrid",
+                    "PostalCode": "28045",
+                    "StateProv_Name": "Madrid",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(S6P) Madrid Atocha Ave Railway - Es De Tren Atocha Ave Cercania, Madrid, Spain"
+    },
+    {
+        "id": "NX3",
+        "idBrand": 12,
+        "fullCode": "RJLX01",
+        "idCountry": 208,
+        "lat": "42.45348",
+        "lon": "-2.44889",
+        "icon": [
+            "AVIS",
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "NX3",
+                "Name": "Logrono Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "RJLX01",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ]
+                },
+                "Latitude": "42.45348",
+                "Longitude": "-2.44889",
+                "Address": {
+                    "StreetNmbr": "Avda De Madrid 32",
+                    "CityName": "Logrono",
+                    "PostalCode": "26007",
+                    "StateProv_Name": "Logrono",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "L9R",
+                "Name": "Budget Logrono Dt",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "RJLX01",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ]
+                },
+                "Latitude": "42.45345",
+                "Longitude": "-2.44876",
+                "Address": {
+                    "StreetNmbr": "Avda De Madrid 32",
+                    "CityName": "Logrono",
+                    "PostalCode": "26007",
+                    "StateProv_Name": "Logrono",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(NX3) Logrono Dt - Avda De Madrid 32, Logrono, Spain"
+    },
+    {
+        "id": "MD7",
+        "idBrand": 12456,
+        "fullCode": "MADX18",
+        "idCountry": 208,
+        "lat": "40.47191",
+        "lon": "-3.682977",
+        "icon": [
+            "AVIS",
+            "BUDGET",
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "AVIS",
+                "AtAirport": false,
+                "Code": "MD7",
+                "Name": "Madrid Estacion De Chamartin",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX18",
+                "Telephone": "",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.47191",
+                "Longitude": "-3.682977",
+                "Address": {
+                    "StreetNmbr": "Estacion De Tren De Chamartin",
+                    "CityName": "Madrid",
+                    "PostalCode": "28036",
+                    "StateProv_Name": "Madrid",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "M1D",
+                "Name": "Bd Madrid Agustin De Foxa",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADC02",
+                "Telephone": "902 090 343",
+                "Schedule": {
+                    "monday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "08:00",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    },
+                    "sunday": {
+                        "start": "09:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:00",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "09:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.470276",
+                "Longitude": "-3.685431",
+                "Address": {
+                    "StreetNmbr": "Estacion De Tren De Chamartin",
+                    "CityName": "Madrid",
+                    "PostalCode": "28036",
+                    "StateProv_Name": "Madrid",
+                    "StateCode": ""
+                }
+            },
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "MADX53",
+                "Name": "MADRID EST. CHAMARTIN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX53",
+                "Telephone": "913235970",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.471749",
+                "Longitude": "-3.681761",
+                "Address": {
+                    "StreetNmbr": "ESTACION DE CHAMARTIN",
+                    "CityName": "MADRID",
+                    "PostalCode": "28036",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "MADX13",
+                "Name": "MADRID EST. CHAMARTIN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX13",
+                "Telephone": "913235970",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.471754",
+                "Longitude": "-3.681735",
+                "Address": {
+                    "StreetNmbr": "ESTACION DE CHAMARTIN",
+                    "CityName": "MADRID",
+                    "PostalCode": "28036",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADX61",
+                "Name": "MADRID EST. CHAMARTIN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX61",
+                "Telephone": "913235970",
+                "Schedule": {
+                    "monday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "tuesday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "wednesday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "thursday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "friday": {
+                        "start": "7:30",
+                        "end": "20:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "7:30",
+                            "end": "20:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.47175",
+                "Longitude": "-3.681749",
+                "Address": {
+                    "StreetNmbr": "ESTACION DE CHAMARTIN",
+                    "CityName": "MADRID",
+                    "PostalCode": "28036",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MD7) Madrid Estacion De Chamartin - Estacion De Tren De Chamartin, Madrid, Spain"
+    },
+    {
+        "id": "U9C",
+        "idBrand": 2,
+        "fullCode": "MADE26",
+        "idCountry": 208,
+        "lat": "40.458572",
+        "lon": "-3.872848",
+        "icon": [
+            "BUDGET"
+        ],
+        "officeData": [
+            {
+                "Brand": "BUDGET",
+                "AtAirport": false,
+                "Code": "U9C",
+                "Name": "Bd Majadahonda Agencia",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADE26",
+                "Telephone": "0034 916340359",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "09:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "08:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "09:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.458572",
+                "Longitude": "-3.872848",
+                "Address": {
+                    "StreetNmbr": "Majadahonda Hotel",
+                    "CityName": "Madrid",
+                    "PostalCode": "28220",
+                    "StateProv_Name": "Madrid",
+                    "StateCode": ""
+                }
+            }
+        ],
+        "name": "(U9C) Bd Majadahonda Agencia - Majadahonda Hotel, Madrid, Spain"
+    },
+    {
+        "id": "MADX58",
+        "idBrand": 456,
+        "fullCode": "MADX58",
+        "idCountry": 208,
+        "lat": "40.422714",
+        "lon": "-3.712208",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "MADX58",
+                "Name": "MADRID PLAZA ESPANA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX58",
+                "Telephone": "915425015",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.422714",
+                "Longitude": "-3.712208",
+                "Address": {
+                    "StreetNmbr": "APARCAMIENTO PZA DE ESPANA",
+                    "CityName": "MADRID",
+                    "PostalCode": "28008",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "MADX18",
+                "Name": "MADRID PLAZA ESPANA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX18",
+                "Telephone": "915425015",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.422729",
+                "Longitude": "-3.712175",
+                "Address": {
+                    "StreetNmbr": "APARCAMIENTO PZA",
+                    "CityName": "MADRID",
+                    "PostalCode": "28008",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADC61",
+                "Name": "MADRID PLAZA ESPANA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADC61",
+                "Telephone": "915425015",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    },
+                    "sunday": {
+                        "start": "9:00",
+                        "end": "14:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "9:00",
+                            "end": "14:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.422731",
+                "Longitude": "-3.712173",
+                "Address": {
+                    "StreetNmbr": "APARCAMIENTO PZA  DE ESPANA 1A",
+                    "CityName": "MADRID",
+                    "PostalCode": "28008",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADX58) MADRID PLAZA ESPANA - APARCAMIENTO PZA DE ESPANA, MADRID, Spain"
+    },
+    {
+        "id": "MADX52",
+        "idBrand": 456,
+        "fullCode": "MADX52",
+        "idCountry": 208,
+        "lat": "40.403666",
+        "lon": "-3.68451",
+        "icon": [
+            "ALAMO",
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ALAMO",
+                "AtAirport": false,
+                "Code": "MADX52",
+                "Name": "MADRID EST. ATOCHA AVE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX52",
+                "Telephone": "915061846",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.403666",
+                "Longitude": "-3.68451",
+                "Address": {
+                    "StreetNmbr": "ENTERPRISE RENT A CAR",
+                    "CityName": "MADRID",
+                    "PostalCode": "28045",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "MADX12",
+                "Name": "MADRID EST. ATOCHA AVE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX12",
+                "Telephone": "915061846",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.40369",
+                "Longitude": "-3.6845",
+                "Address": {
+                    "StreetNmbr": "ENTERPRISE RENT A CAR",
+                    "CityName": "MADRID",
+                    "PostalCode": "28045",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADX60",
+                "Name": "MADRID ATOCHA TRAIN STAT",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADX60",
+                "Telephone": "677995437",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "saturday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    },
+                    "sunday": {
+                        "start": "8:00",
+                        "end": "23:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "8:00",
+                            "end": "23:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.4036",
+                "Longitude": "-3.68454",
+                "Address": {
+                    "StreetNmbr": "ESTACION AVE ATOCHA",
+                    "CityName": "MADRID",
+                    "PostalCode": "28045",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADX52) MADRID EST. ATOCHA AVE - ENTERPRISE RENT A CAR, MADRID, Spain"
+    },
+    {
+        "id": "HMOC01",
+        "idBrand": 56,
+        "fullCode": "HMOC01",
+        "idCountry": 142,
+        "lat": "29.092608",
+        "lon": "-110.965566",
+        "icon": [
+            "NATIONAL",
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "NATIONAL",
+                "AtAirport": false,
+                "Code": "HMOC01",
+                "Name": "HERMOSILLO DOWNTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "HMOC01",
+                "Telephone": "526622104554",
+                "Schedule": {
+                    "monday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "tuesday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "wednesday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "thursday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "friday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "saturday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "sunday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ]
+                },
+                "Latitude": "29.092608",
+                "Longitude": "-110.965566",
+                "Address": {
+                    "StreetNmbr": "GASTON MADRID 1 ESQ REFORMA",
+                    "CityName": "HERMOSILLO",
+                    "PostalCode": "83190",
+                    "StateProv_Name": "HERMOSILLO",
+                    "StateCode": null
+                }
+            },
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "HMOC61",
+                "Name": "HERMOSILLO DOWNTOWN",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "HMOC61",
+                "Telephone": "526622104554",
+                "Schedule": {
+                    "monday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "tuesday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "wednesday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "thursday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "friday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "saturday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    },
+                    "sunday": {
+                        "start": "6:00",
+                        "end": "22:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ],
+                    "sunday": [
+                        {
+                            "start": "6:00",
+                            "end": "22:00"
+                        }
+                    ]
+                },
+                "Latitude": "29.092608",
+                "Longitude": "-110.965566",
+                "Address": {
+                    "StreetNmbr": "GASTON MADRID 1 ESQ REFORMA",
+                    "CityName": "HERMOSILLO",
+                    "PostalCode": "83190",
+                    "StateProv_Name": "HERMOSILLO",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(HMOC01) HERMOSILLO DOWNTOWN - GASTON MADRID 1 ESQ REFORMA, HERMOSILLO, Mexico"
+    },
+    {
+        "id": "MADS62",
+        "idBrand": 6,
+        "fullCode": "MADS62",
+        "idCountry": 208,
+        "lat": "40.338635",
+        "lon": "-3.724933",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADS62",
+                "Name": "MADRID SUR GETAFE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADS62",
+                "Telephone": "910502848",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.338635",
+                "Longitude": "-3.724933",
+                "Address": {
+                    "StreetNmbr": "CTRA. MADRID-TOLEDO, SALIDA 9B",
+                    "CityName": "LEGANES",
+                    "PostalCode": "28916",
+                    "StateProv_Name": "LEGANES",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADS62) MADRID SUR GETAFE - CTRA. MADRID-TOLEDO, SALIDA 9B, LEGANES, Spain"
+    },
+    {
+        "id": "MADC65",
+        "idBrand": 6,
+        "fullCode": "MADC65",
+        "idCountry": 208,
+        "lat": "40.538614",
+        "lon": "-3.646143",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADC65",
+                "Name": "MADRID ALCOBENDAS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADC65",
+                "Telephone": "916613689",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.538614",
+                "Longitude": "-3.646143",
+                "Address": {
+                    "StreetNmbr": "AVENIDA DE VALDELAPARRA 15",
+                    "CityName": "ALCOBENDAS",
+                    "PostalCode": "28108",
+                    "StateProv_Name": "ALCOBENDAS",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADC65) MADRID ALCOBENDAS - AVENIDA DE VALDELAPARRA 15, ALCOBENDAS, Spain"
+    },
+    {
+        "id": "MADC68",
+        "idBrand": 6,
+        "fullCode": "MADC68",
+        "idCountry": 208,
+        "lat": "40.5017",
+        "lon": "-3.8911",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADC68",
+                "Name": "MADRID LAS ROZAS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADC68",
+                "Telephone": "916376332",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.5017",
+                "Longitude": "-3.8911",
+                "Address": {
+                    "StreetNmbr": "CALLE PARIS, NAVE 10",
+                    "CityName": "ROZAS DE MADRID, LAS",
+                    "PostalCode": "28232",
+                    "StateProv_Name": "ROZAS DE MADRID, LAS",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADC68) MADRID LAS ROZAS - CALLE PARIS, NAVE 10, ROZAS DE MADRID, LAS, Spain"
+    },
+    {
+        "id": "MADW61",
+        "idBrand": 6,
+        "fullCode": "MADW61",
+        "idCountry": 208,
+        "lat": "40.340878",
+        "lon": "-3.86298",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADW61",
+                "Name": "MADRID MOSTOLES",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADW61",
+                "Telephone": "916179242",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.340878",
+                "Longitude": "-3.86298",
+                "Address": {
+                    "StreetNmbr": "PASEO  DE LA HERRERIA 1",
+                    "CityName": "MOSTOLES",
+                    "PostalCode": "28933",
+                    "StateProv_Name": "MOSTOLES",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADW61) MADRID MOSTOLES - PASEO  DE LA HERRERIA 1, MOSTOLES, Spain"
+    },
+    {
+        "id": "MADE63",
+        "idBrand": 6,
+        "fullCode": "MADE63",
+        "idCountry": 208,
+        "lat": "40.432678",
+        "lon": "-3.536678",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADE63",
+                "Name": "MADRID COSLADA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADE63",
+                "Telephone": "916694844",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.432678",
+                "Longitude": "-3.536678",
+                "Address": {
+                    "StreetNmbr": "AVENIDA DEL JARAMA 20",
+                    "CityName": "COSLADA",
+                    "PostalCode": "28823",
+                    "StateProv_Name": "COSLADA",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADE63) MADRID COSLADA - AVENIDA DEL JARAMA 20, COSLADA, Spain"
+    },
+    {
+        "id": "MADS64",
+        "idBrand": 6,
+        "fullCode": "MADS64",
+        "idCountry": 208,
+        "lat": "40.2484",
+        "lon": "-3.7166",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADS64",
+                "Name": "MADRID PINTO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADS64",
+                "Telephone": "916925352",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.2484",
+                "Longitude": "-3.7166",
+                "Address": {
+                    "StreetNmbr": "14 C. GARZAS",
+                    "CityName": "PINTO",
+                    "PostalCode": "28320",
+                    "StateProv_Name": "PINTO",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADS64) MADRID PINTO - 14 C. GARZAS, PINTO, Spain"
+    },
+    {
+        "id": "MADN61",
+        "idBrand": 6,
+        "fullCode": "MADN61",
+        "idCountry": 208,
+        "lat": "40.6937",
+        "lon": "-4.024",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADN61",
+                "Name": "COLLADO MEDIANO",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADN61",
+                "Telephone": "918598497",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:30",
+                        "end": "13:00"
+                    },
+                    "tuesday": {
+                        "start": "8:30",
+                        "end": "13:00"
+                    },
+                    "wednesday": {
+                        "start": "8:30",
+                        "end": "13:00"
+                    },
+                    "thursday": {
+                        "start": "8:30",
+                        "end": "13:00"
+                    },
+                    "friday": {
+                        "start": "8:30",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.6937",
+                "Longitude": "-4.024",
+                "Address": {
+                    "StreetNmbr": "1 AV. DE MADRID",
+                    "CityName": "COLLADO MEDIANO",
+                    "PostalCode": "28450",
+                    "StateProv_Name": "COLLADO MEDIANO",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADN61) COLLADO MEDIANO - 1 AV. DE MADRID, COLLADO MEDIANO, Spain"
+    },
+    {
+        "id": "MADC67",
+        "idBrand": 6,
+        "fullCode": "MADC67",
+        "idCountry": 208,
+        "lat": "40.498",
+        "lon": "-3.3429",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADC67",
+                "Name": "MADRID ALCALA DE HENARES",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADC67",
+                "Telephone": "911751796",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "10:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "10:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.498",
+                "Longitude": "-3.3429",
+                "Address": {
+                    "StreetNmbr": "141 VIA",
+                    "CityName": "ALCALA DE HENARES",
+                    "PostalCode": "28805",
+                    "StateProv_Name": "ALCALA DE HENARES",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADC67) MADRID ALCALA DE HENARES - 141 VIA, ALCALA DE HENARES, Spain"
+    },
+    {
+        "id": "MADC69",
+        "idBrand": 6,
+        "fullCode": "MADC69",
+        "idCountry": 208,
+        "lat": "40.4369",
+        "lon": "-3.6277",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADC69",
+                "Name": "MADRID J CAMARILLO IFEMA",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADC69",
+                "Telephone": "912750998",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.4369",
+                "Longitude": "-3.6277",
+                "Address": {
+                    "StreetNmbr": "18 CALLE DE ALFONSO GOMEZ",
+                    "CityName": "MADRID",
+                    "PostalCode": "28037",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADC69) MADRID J CAMARILLO IFEMA - 18 CALLE DE ALFONSO GOMEZ, MADRID, Spain"
+    },
+    {
+        "id": "MADN62",
+        "idBrand": 6,
+        "fullCode": "MADN62",
+        "idCountry": 208,
+        "lat": "40.4722",
+        "lon": "-3.6791",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADN62",
+                "Name": "MADRID NORTE",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADN62",
+                "Telephone": "913235970",
+                "Schedule": {
+                    "monday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "tuesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "wednesday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "thursday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "friday": {
+                        "start": "8:00",
+                        "end": "18:00"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.4722",
+                "Longitude": "-3.6791",
+                "Address": {
+                    "StreetNmbr": "CALLE DE LA HIEDRA, 26",
+                    "CityName": "MADRID",
+                    "PostalCode": "28036",
+                    "StateProv_Name": "MADRID",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADN62) MADRID NORTE - CALLE DE LA HIEDRA, 26, MADRID, Spain"
+    },
+    {
+        "id": "MADS65",
+        "idBrand": 6,
+        "fullCode": "MADS65",
+        "idCountry": 208,
+        "lat": "40.30513",
+        "lon": "-3.45622",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADS65",
+                "Name": "MADRID ARGANDA DEL REY",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADS65",
+                "Telephone": "651747164",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "10:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "10:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.30513",
+                "Longitude": "-3.45622",
+                "Address": {
+                    "StreetNmbr": "CONCESIONARIO AGROGIL",
+                    "CityName": "ARGANDA DEL REY MADRID",
+                    "PostalCode": "28500",
+                    "StateProv_Name": "ARGANDA DEL REY MADRID",
+                    "StateCode": null
+                }
+            }
+        ],
+        "name": "(MADS65) MADRID ARGANDA DEL REY - CONCESIONARIO AGROGIL, ARGANDA DEL REY MADRID, Spain"
+    },
+    {
+        "id": "MADS67",
+        "idBrand": 6,
+        "fullCode": "MADS67",
+        "idCountry": 208,
+        "lat": "40.35012",
+        "lon": "-3.80204",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADS67",
+                "Name": "MADRID ALCORCON",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADS67",
+                "Telephone": "605353208",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "18:30"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "18:30"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "18:30"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "18:30"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "18:30"
+                    },
+                    "saturday": {
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "8:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.35012",
+                "Longitude": "-3.80204",
+                "Address": {
+                    "StreetNmbr": "TALLERES RUVER S L",
+                    "CityName": "LEGANES",
+                    "PostalCode": "28918",
+                    "StateProv_Name": "LEGANES",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADS67) MADRID ALCORCON - TALLERES RUVER S L, LEGANES, Spain"
+    },
+    {
+        "id": "MADE65",
+        "idBrand": 6,
+        "fullCode": "MADE65",
+        "idCountry": 208,
+        "lat": "40.3494",
+        "lon": "-3.538",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADE65",
+                "Name": "MADRID RIVAS",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADE65",
+                "Telephone": "645334588",
+                "Schedule": {
+                    "monday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "tuesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "wednesday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "thursday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "friday": {
+                        "start": "16:00",
+                        "end": "19:00"
+                    },
+                    "saturday": {
+                        "start": "10:30",
+                        "end": "13:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "start": "16:00",
+                            "end": "19:00"
+                        }
+                    ],
+                    "saturday": [
+                        {
+                            "start": "10:30",
+                            "end": "13:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.3494",
+                "Longitude": "-3.538",
+                "Address": {
+                    "StreetNmbr": "CALLE DE LA FUNDICION, 12",
+                    "CityName": "RIVAS-VACIAMADRID",
+                    "PostalCode": "28522",
+                    "StateProv_Name": "RIVAS-VACIAMADRID",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADE65) MADRID RIVAS - CALLE DE LA FUNDICION, 12, RIVAS-VACIAMADRID, Spain"
+    },
+    {
+        "id": "MADE64",
+        "idBrand": 6,
+        "fullCode": "MADE64",
+        "idCountry": 208,
+        "lat": "40.4595",
+        "lon": "-3.4618",
+        "icon": [
+            "ENTERPRISE"
+        ],
+        "officeData": [
+            {
+                "Brand": "ENTERPRISE",
+                "AtAirport": false,
+                "Code": "MADE64",
+                "Name": "MADRID TORREJON DE ARDOZ",
+                "image_url": null,
+                "link_waze": null,
+                "link_google_maps": null,
+                "has_shuttle": null,
+                "GDS": "MADE64",
+                "Telephone": "919056001",
+                "Schedule": {
+                    "monday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    },
+                    "tuesday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    },
+                    "wednesday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    },
+                    "thursday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    },
+                    "friday": {
+                        "start": "9:00",
+                        "end": "17:00"
+                    }
+                },
+                "Schedule2": {
+                    "monday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "tuesday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "wednesday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "thursday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "friday": [
+                        {
+                            "start": "9:00",
+                            "end": "17:00"
+                        }
+                    ]
+                },
+                "Latitude": "40.4595",
+                "Longitude": "-3.4618",
+                "Address": {
+                    "StreetNmbr": "TURISMOTOR",
+                    "CityName": "TORREJON DE ARDOZ",
+                    "PostalCode": "28850",
+                    "StateProv_Name": "TORREJON DE ARDOZ",
+                    "StateCode": "M"
+                }
+            }
+        ],
+        "name": "(MADE64) MADRID TORREJON DE ARDOZ - TURISMOTOR, TORREJON DE ARDOZ, Spain"
+    }
+]
